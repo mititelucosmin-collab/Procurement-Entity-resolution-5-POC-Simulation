@@ -1,0 +1,593 @@
+input_row_key,input_company_name,company_name,veridion_id,match_score,input_main_country,main_country,input_main_city,main_city,website_url,primary_email,employee_count,revenue,qc_flags
+0,24-SEVEN MEDIA NETWORK (PRIVATE) LIMITED,New Millennium Network,26e22210-93e5-11eb-b997-8dd98d09cf25,65.16,Pakistan,Pakistan,Karachi,Karachi,https://www.mnet.com.pk/,,23.0,311793.0,missing_email
+1,2OPERATE A/S,2operate,8b99ef83-93e4-11eb-b997-8dd98d09cf25,78.0,Denmark,Denmark,Aalborg,Aalborg Municipality,https://www.2operate.com/,info@2operate.com,75.0,28698964.0,missing_year_founded
+2,3 STEP IT A/S,3 Step IT A/S.,45309031-f8ab-11ed-89fe-613148a94f23,87.78,Denmark,Denmark,Tønder Municipality,Gladsaxe Municipality,http://www.3stepit.dk/?opi=79508299&sa=U&ved=0ahUKEwiKsvSF7tyMAxWo78kDHfZKCtQQ61gIFCgQ&usg=AOvVaw1O2VrP_KM3o5n9XzsuUwLL,,,,"missing_email, missing_year_founded"
+3,3 STEP IT AS,3 Step IT A/S.,45309031-f8ab-11ed-89fe-613148a94f23,60.38,Norway,Denmark,Oslo,Gladsaxe Municipality,http://www.3stepit.dk/?opi=79508299&sa=U&ved=0ahUKEwiKsvSF7tyMAxWo78kDHfZKCtQQ61gIFCgQ&usg=AOvVaw1O2VrP_KM3o5n9XzsuUwLL,,,,"missing_email, country_mismatch, missing_year_founded"
+4,3 Step IT Sweden AB,Proact IT Sweden,e5cede70-0409-11ed-a83d-25d09483d16d,67.71,Sweden,Sweden,Linköping,Gothenburg,http://www.proact.se/,support.nordic@proact.eu,130.0,7000000.0,ok
+5,"3DEGREES GROUP, INC.",3Degrees Inc.,df61d790-93e4-11eb-aa66-9b8d95e2171b,87.27,United States,United States,San Francisco,San Francisco,http://3degreesinc.com/,unsubscribe@3degreesinc.com,,,ok
+6,3Step IT Group Oy,3Step IT Group,359bd116-93e5-11eb-b5f6-816dd10ac7b0,94.19,Finland,Finland,Helsinki,Helsinki,https://sg.3stepit.com/,3stepit@3stepit.com,600.0,111438832.0,ok
+7,A.T. KEARNEY AB,AT RÖRSERVICE,08330b7d-aeb0-11ef-ac6a-636c4f5076ef,55.71,Sweden,Sweden,,Stockholm,https://www.vvshagersten.se/,info@atrorservice.se,25.0,3987137.0,ok
+8,A. T. KEARNEY PTE. LTD,ATKEARNEY,4f44b02e-17aa-11f0-87dc-2b7a69541cf4,45.97,Singapore,,,,https://atkearney.top/#/,,,,"missing_email, country_mismatch, missing_year_founded"
+9,AALBORG CITY,AALBORG CITY,272b8711-93e5-11eb-8e19-198fb02d6f96,100.0,Denmark,Denmark,Aalborg,Aalborg,https://aalborgcity.dk/,event@aalborgcity.dk,75.0,16195217.0,missing_year_founded
+10,ACCENTURE SERVICES AS,Accenture Norge,182e8830-1b02-11ec-81d0-432e4ac5b2cc,70.0,Norway,Norway,Bærum,Oslo,https://www.accenture.no/,,,,"missing_email, missing_year_founded"
+11,Accutics ApS,Accutics,347c7e63-93e5-11eb-90d2-e3355a7e800b,78.0,Denmark,Denmark,Odense,Copenhagen Municipality,https://www.accutics.com/,cnf@accutics.com,40.0,12575664.0,ok
+12,ACOME,Acome Waga,1d1d61eb-f3d2-11ed-aa3a-193884b43729,65.0,France,France,Paris,Romagny Fontenay,,,,,"missing_website, missing_email, missing_year_founded"
+13,"ACOME XINTAI CABLES CO., LTD.",Acome Xintai Cables Co. Ltd.,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,83.95,China,China,Xintai,Chaoyang,,,,,"missing_website, missing_email, missing_year_founded"
+14,ADAPT A/S,Co adapt,05a4c395-93e5-11eb-8e19-198fb02d6f96,75.29,Denmark,Denmark,Copenhagen,Copenhagen,https://www.co-adapt.dk/,mail@co-adapt.dk,1.0,232244.0,ok
+15,ADECCO A/S,Crone & Co.,76ed93c2-93e4-11eb-8e19-198fb02d6f96,62.86,Denmark,Denmark,Kongens Lyngby,Kongens Lyngby,https://croneandco.com/,hello@croneandco.com,4.0,873785.0,ok
+16,ADECCO PERSONNEL PTE LTD,Adecco Singapore Pte. Ltd.,8a652942-f9d1-11ed-9ca4-4b290c9d084b,75.8,Singapore,Singapore,,,,,,,"missing_website, missing_email, missing_year_founded"
+17,ADOBE SYSTEMS SOFTWARE IRELAND LIMITED,Adobe Systems Software Ireland,099ed3a8-1afb-11ec-a882-057f42292856,77.94,Ireland,Ireland,Dublin,Dublin 24,,,,,"missing_website, missing_email, missing_year_founded"
+18,ADVANCED DIGITAL BROADCAST SA,Advanced Digital Broadcast Holdings SA.,170bf945-d904-11ec-97fb-31cc4a312a12,81.18,Switzerland,Switzerland,Bellevue,Pregny-Chambésy,https://www.adbholdings.com/,,,35800000.0,missing_email
+19,Advanced Network Solutions Sdn Bhd,Advanced Network Solutions Sdn. Bhd.,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,93.29,Malaysia,Malaysia,Shah Alam,Shah Alam,,,,,"missing_website, missing_email, missing_year_founded"
+20,ADVANSIA AS,Advansia,a9f7869f-93e4-11eb-97db-273ba5953680,90.53,Norway,Norway,Oslo,Oslo,https://www.advansia.no/,hans.hagby@advansia.no,600.0,201516784.0,ok
+21,AEGER GROUP AS,Aeger Group,2d7be421-93e5-11eb-be5a-4f810ab55f2e,92.8,Norway,Norway,Oslo,Oslo,https://www.aeger.no/,post@aeger.no,13.0,3709650.0,ok
+22,AFFIRMED NETWORKS INC,Affirmed Networks,ef392bbd-93e4-11eb-919a-b3f9a5ad205c,93.68,United States,United States,Acton,Acton,https://www.affirmednetworks.com/,an_marketing@microsoft.com,120.0,75000000.0,ok
+23,Agg Power Technology (Fuzhou) Co Ltd.,AGG Power,475daed5-0c7d-11ec-b9ed-b7cae580407c,63.48,China,China,Fuzhou City,Fuzhou City,http://aggpower.cn/,info@aggpowersolutions.com,85.0,5672347.0,missing_year_founded
+24,AIA Berhad,AIA PRS,25f047fc-93e5-11eb-a736-0f5b20ecb2f1,75.29,Malaysia,Malaysia,Kuala Lumpur,Kuala Lumpur,http://www.aia-prs.com.my/en/help-and-support/contact-us.html,,,,"missing_email, missing_year_founded"
+25,AIG EUROPE S.A. NUF,AIG Norge,379975dc-93e5-11eb-90d2-e3355a7e800b,65.71,Norway,Norway,Oslo,Oslo,https://www.aig.no/,csg.norway@aig.com,20.0,28010168.0,ok
+26,AKTIESELSKABET RODOVRE CENTRUM,Aktieselskabet Rødovre Centrum,eab4a797-e56c-11ed-86c6-9fd2c95fb352,93.0,Denmark,Denmark,Rødovre Municipality,Rødovre Municipality,,,,,"missing_website, missing_email, missing_year_founded"
+27,ALLEN OVERY SHEARMAN STERLING LLP,Shearman & Sterling,afe6b0d3-93e4-11eb-a33a-a3dfba582839,81.54,United Kingdom,United Kingdom,London,London,https://www.aoshearman.com/en,,850.0,1010000000.0,"missing_email, missing_year_founded"
+28,ALTAIR GLOBAL RELOCATION SINGAPORE PTE. LTD.,Altair Aesthetic,1a9cb61c-0d2d-11ec-8853-310171c0600e,60.0,Singapore,Singapore,Singapore,Singapore,https://altairaesthetic.com/,,75.0,79647328.0,"missing_email, missing_year_founded"
+29,"AMAZON WEB SERVICES, INC.",Amazon Web Services | API Gateway,c89d4e1b-bfde-11ec-92f4-876998402e2b,78.45,United States,United States,Seattle,Seattle,,,2.0,701700.0,"missing_website, missing_email, missing_year_founded"
+30,AMAZON WEB SERVICES EMEA SARL,Amazon Web Services EMEA,4706bd71-93e5-11eb-aa66-9b8d95e2171b,69.34,Luxembourg,,,,https://logitech-events.com/,info@logitech-events.com,,,"country_mismatch, missing_year_founded"
+31,"AMAZON WEB SERVICES EMEA SARL, NORWEGIAN BRANCH",Norwegian Seafood Supply,00b299f2-6d0d-11ec-bc58-f126260d7c32,63.66,Norway,Norway,Oslo,Oslo,https://norwegian-seafoodsupply.com/,info@norwegian-seafoodsupply.com,75.0,95972952.0,ok
+32,AMDOCS DEVELOPMENT LIMITED,Amdocs Offices,0d6b95cb-8ab9-11ec-9b5d-67d3995ac824,30.0,Cyprus,United States,Limassol,St. Louis,,,,4800000000.0,"missing_website, missing_email, country_mismatch"
+33,"American Express Europe Denmark, filial af American Express Europe S.A., Spanien",American Steakhouse,0078e966-93e5-11eb-b997-8dd98d09cf25,49.39,Denmark,Denmark,Copenhagen,,https://butcher.dk/,,15.0,752435.0,"missing_email, missing_year_founded"
+34,American Express Europe SA (Norway),American Express Company AS,d791fd63-e113-11ec-a72c-1538a9321a8e,76.77,Norway,Norway,Oslo,Oslo,http://www.americanexpress.no/?opi=79508299&sa=U&ved=0ahUKEwiJ-N_liKSMAxX2TGwGHZRzErcQ61gIEigO&usg=AOvVaw27wLoj6gX0wm9eKmXSSFGk,,,,"missing_email, missing_year_founded"
+35,ANALYSYS MASON AS,Analysys Mason,e97d1f55-93e4-11eb-be3a-7f925cb94351,59.19,Norway,Italy,Oslo,Milan,https://www.analysysmason.com/,web_enquiries@analysysmason.com,470.0,95000000.0,country_mismatch
+36,MASON SITE FINDER LIMITED,Mason Contract Services,e16f0714-729b-11ec-82c4-1d4ff65030ff,62.5,United Kingdom,United Kingdom,Salford,Grays,https://masongroup.co.uk/,office@masongroup.co.uk,15.0,7168688.0,missing_year_founded
+37,ANDCO A/S,Andco A/S.,d7aa707f-93e4-11eb-9937-4fab995bf8ff,96.84,Denmark,Denmark,Copenhagen,Copenhagen,https://www.andco.dk/,,75.0,16790228.0,"missing_email, missing_year_founded"
+38,Annalect Denmark A/S,Annalect,bece9f0e-e4d2-11ec-a140-3f2eb8ef49f8,74.29,Denmark,Denmark,Copenhagen,Copenhagen,https://annalect-data.info/,dk.support@annalect.com,75.0,16790228.0,missing_year_founded
+39,Anne Mette Lund,Anne Mette Høy,02115b2b-65f6-11ef-a567-7774974824cc,75.52,Denmark,Denmark,Haderslev,Vejle,http://mindre-stress.dk/?opi=79508299&sa=U&ved=0ahUKEwi4mfaSm-SMAxVfE1kFHS_HLHoQ61gIEigP&usg=AOvVaw21SI8OJlgK9_li2AWT-KF8,,,,"missing_email, missing_year_founded"
+40,ANRITSU A/S,ANRITSU,172e7ea7-0523-11ec-a64f-cb86dbe4969b,51.67,Denmark,,Copenhagen,,https://tiancunwu.com/,,,,"missing_email, country_mismatch, missing_year_founded"
+41,Aon Assessment Denmark A/S,Aon Invest A/S.,8ebb9a30-f868-11ed-a012-23d8e35cf067,57.2,Denmark,Denmark,Copenhagen,Aarhus,,,,,"missing_website, missing_email, missing_year_founded"
+42,AON NORWAY AS,Aon Norway,94b23b7a-a0a5-11ed-9081-2b8f862bccfc,87.17,Norway,Norway,Oslo,Oslo,,,82.0,,"missing_website, missing_email, missing_year_founded"
+43,APPDYNAMICS UK LTD,AppDynamic,f7b252d4-fa1c-11ec-83db-47cce081a4ab,72.86,United Kingdom,United Kingdom,London,Feltham,http://stluciakitefiesta.com/,privacy@appdynamics.com,,,missing_year_founded
+44,APPLE DISTRIBUTION INTERNATIONAL LIMITED,Apple Distribution International,72b33d10-1afd-11ec-9842-212d1c52ad77,78.33,Ireland,Ireland,,Cork,,,,,"missing_website, missing_email, missing_year_founded"
+45,APPLE DISTRIBUTION INTERNATIONAL LIMITED,Apple Distribution International,72b33d10-1afd-11ec-9842-212d1c52ad77,88.33,Ireland,Ireland,Cork,Cork,,,,,"missing_website, missing_email, missing_year_founded"
+46,Apple Malaysia Sdn. Bhd.,Apple Malaysia Sdn Bhd.,50c0e708-22bf-11ec-9024-ef7bc13965aa,93.72,Malaysia,Malaysia,Kuala Lumpur,Kuala Lumpur,,,,,"missing_website, missing_email, missing_year_founded"
+47,Apple South Asia (Thailand) Co Ltd,South East Asia Sails,001f3090-93e5-11eb-a33a-a3dfba582839,62.73,Thailand,Thailand,Bangkok,Choeng Thale,https://southeastasiasails.com/,robert.tasker@southeastasiasails.com,15.0,431358.0,ok
+48,ARELION NORWAY AS,Mixto As,0233ab52-aa7c-11ec-bce7-45193b30c3a8,59.2,Norway,Norway,Oslo,Oslo,https://www.mixto.no/,kundeservice@mixto.no,3.0,1498524.0,ok
+49,Arelion AB,Arelion,34818680-89c1-11ec-a621-3f13cdb5ccc4,79.41,Sweden,Sweden,Stockholm,Farsta,https://arelion.com/,support@arelion.com,530.0,454000000.0,ok
+50,ARY COMMUNICATIONS LIMITED,Unisoft Computer & Communication,7f6e1749-93e4-11eb-919a-b3f9a5ad205c,67.24,Pakistan,Pakistan,Karachi,Lahore,http://www.unisoftcc.com/,info@unisoftcc.com,75.0,455928.0,missing_year_founded
+51,"Ascio Technologies, Corp. Danmark - Filial af Ascio Technologies Corp. Canada",Ascio Technologies,c7288490-93e4-11eb-8859-29e7c34dee35,52.74,Denmark,Denmark,Gentofte Municipality,Copenhagen,https://www.ascio.com/,help@ascio.com,71.0,5400000.0,ok
+52,ASIAINFO DENMARK ApS,Birk Denmark,0054d420-11a8-11ec-a2c4-217a4c183987,63.75,Denmark,Denmark,Copenhagen,Skive Municipality,https://birkdenmark.com/,contact@birkdenmark.com,15.0,12539290.0,missing_year_founded
+53,Atea A/S,Atea Anlæg ApS.,bd9dbeb0-ce0a-11ed-a666-1d0889fbeaae,66.52,Denmark,Denmark,Ballerup,Køge Municipality,https://ateaanlaeg.dk/,ateaanlag@outlook.dk,3.0,372603.0,missing_year_founded
+54,ATEA AS,Atea ASA.,933da790-93e4-11eb-b5f6-816dd10ac7b0,92.5,Norway,Norway,Oslo,Oslo,https://www.atea.no/,dpo@atea.com,2500.0,600000000.0,ok
+55,Atea Sverige AB,Atea Sverige,f0c60d30-93e4-11eb-91fb-73d498260b10,83.33,Sweden,Sweden,Stockholms Kommun,Stockholm,https://www.atea.se/,kundreskontra@atea.se,2700.0,395000.0,ok
+56,NP Investment A/S,Np International A/S.,5e1eacfe-1af9-11ec-9211-addac7307e1d,66.05,Denmark,Denmark,Hillerød,Copenhagen,,,,,"missing_website, missing_email, missing_year_founded"
+57,ATREBO SL,Atrebo,a32a0a45-93e4-11eb-90d2-e3355a7e800b,78.0,Spain,Spain,Guillena,Sevilla,https://www.atrebo.com/,marketing@atrebo.com,49.0,8433512.0,ok
+58,AV CENTER AALBORG ApS,Aalborg Anlægsgartneri,1927e196-93e5-11eb-9937-4fab995bf8ff,69.07,Denmark,Denmark,Nørresundby,Aalborg,https://aalborganlaegsgartneri.dk/,fa@aalborganlaegsgartneri.dk,8.0,955192.0,missing_year_founded
+59,aviat networks bangladesh ltd.,Aviat Electric Store,65315fc3-0695-11ef-a74a-2d2c9a18d857,56.2,Bangladesh,Bangladesh,,Netrokona,,,,,"missing_website, missing_email, missing_year_founded"
+60,Aviat Networks Japan LLC,Aviat Networks,a3b73ba0-c4fc-11ec-b6cb-fdc55dfeae3a,59.21,Japan,,,,https://aviatnetworks.wordpress.com/,,,,"missing_email, country_mismatch, missing_year_founded"
+61,AWAN DISTRIBUTION FZC,AWAN DISTRIBUTION,90786d2c-93e4-11eb-a33a-a3dfba582839,58.68,United Arab Emirates,Singapore,Sharjah,Singapore,https://awandistribution.com/,info@awandistribution.com,75.0,128811808.0,country_mismatch
+62,Axteq ApS,Axteq,79b2afc2-9ba7-11ec-81bb-a98020a63841,82.86,Denmark,Denmark,Greve Strand,Greve Strand,https://axteq.dk/,job@axteq.dk,6.0,2726236.0,ok
+63,Az-Technology Sdn. Bhd.,AZ Technology,eea35cb5-1206-11ec-a59d-d5061f333c7e,80.0,Malaysia,Malaysia,Petaling Jaya,Petaling Jaya,https://az-tech.my/,techsupport@az-tech.my,75.0,11588822.0,missing_year_founded
+64,BAE SYSTEMS APPLIED INTELLIGENCE (INTERNATIONAL) LIMITED,BAE Systems Applied Intelligence,3ea0da62-8ab7-11ec-ac1c-2de22eb6a532,83.64,United Kingdom,United Kingdom,Guildford,Guildford,https://www.baesystemsdetica.com/,,,728200000.0,missing_email
+65,BASICO P/S,Basico P/S.,9c00c37e-6d04-11ee-b24b-eb147ec3ebc2,92.14,Denmark,Denmark,Gentofte Municipality,Gentofte Municipality,,,,,"missing_website, missing_email, missing_year_founded"
+66,"BB CONNECT CO.,LTD.",Bb connect,d57e2265-193a-11f0-abd2-b1121b4598c4,56.38,Thailand,South Africa,,,https://bb-connect.co.za/,connectbbconnectza@gmail.com,,,"country_mismatch, missing_year_founded"
+67,Bb Technology Co Ltd,BB Air Technology Company Limited,0548f960-19a9-11ee-b47f-171c68013d1e,70.28,Thailand,Thailand,Bangkok,Wang Thonglang,,,,,"missing_website, missing_email, missing_year_founded"
+68,BCD TRAVEL ASIA PACIFIC PTE. LTD.,BCD Engineering Services,d6020a05-f722-11ed-badc-3f260589431a,58.16,Singapore,Singapore,Singapore,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+69,BCD N.V.,BCD,05804ba6-93e5-11eb-8859-29e7c34dee35,72.73,Netherlands,Netherlands,Utrecht,Utrecht,https://www.bcdtravel.com/,social.media@bcdtravel.com,13000.0,24999999488.0,ok
+70,BEAT A/S,Beat,c62a45a0-6cf1-11ec-bd63-974170f7dbf6,80.0,Denmark,Denmark,Copenhagen,Copenhagen,http://www.beat.dk/,info@beat.dk,,,ok
+71,"Beijing Dynamic Power Co., Ltd",Beijing High-tech Dynamic Power Co. Ltd.,d037a93e-18b9-11f0-94fa-471c68e22274,89.71,China,China,Fengtai District,Fengtai District,https://htdp.com.cn/,sales@htdp.com.cn,,,missing_year_founded
+72,BIGID INC.,BigID,1cdc1a43-6dce-11ec-a314-7d00415f726f,70.0,United States,United States,,New York,https://bigid.me/,,,,"missing_email, missing_year_founded"
+73,Binkies Holding B.V.,Binkies,8bd572a1-01b3-11ef-a950-57d6400676e3,71.11,Netherlands,Netherlands,The Hague,The Hague,https://binkiesdenhaag.nl/,,13.0,604754.0,"missing_email, missing_year_founded"
+74,BLACKWOOD SEVEN A/S,Blackwood Seven,0cb674d5-93e5-11eb-aa66-9b8d95e2171b,92.94,Denmark,Denmark,Copenhagen,Copenhagen,https://blackwoodseven.com/,info@blackwoodseven.com,38.0,2000000.0,ok
+75,Blom Soefeldt - Erhvervspsykologisk radgivning,Blom Søefeldt - Erhvervspsykologisk Rådgivning,1f377b2b-0c41-11ec-b09d-95ba7b1bb140,97.39,Denmark,Denmark,Copenhagen,Copenhagen,https://blomsoefeldt.dk/,mail@blomsoefeldt.dk,30.0,2699188.0,missing_year_founded
+76,BOOST AI AS,Boost,f6ae0b86-93e4-11eb-91fb-73d498260b10,77.5,Norway,Norway,Sandnes,Sandnes,https://boost.ai/,privacy@boost.ai,180.0,8000000.0,ok
+77,Bording Danmark A/S,Bording Dannmark A/S.,a80097e2-aeff-11ef-a550-45d601d5781f,87.0,Denmark,Denmark,Glostrup,Hvidovre Municipality,https://julemaerkelotteri.dk/,nij@bording.dk,13.0,2055733.0,missing_year_founded
+78,Braathens Regional Airways AB,BRAATHENS REGIONAL AIRWAYS AB.,e06dbd72-5b1d-11ef-8bf4-3129dd2a123f,83.98,Sweden,Sweden,Stockholm,Trollhättan,,,4.0,,"missing_website, missing_email, missing_year_founded"
+79,BRAINCHILD COMMUNICATIONS PAKISTAN (PVT.) LIMITED,Brainchild Communications Pakistan,efc08410-93e4-11eb-a746-fdabd18be9c6,79.16,Pakistan,Pakistan,,Karachi Division,https://brainchild.net/,info@brainchild.net,160.0,850985.0,ok
+80,Brobizz A/S,Brobizz,f6c033f6-93e4-11eb-8859-29e7c34dee35,86.67,Denmark,Denmark,Copenhagen,Copenhagen,https://brobizz.com/,truck@brobizz.com,75.0,14588839.0,ok
+81,BUNDGAARD KOLETEKNIK. VEJLE A/S,Bundgaard Køleteknik A/S.,91a6c984-27a7-11ef-ba21-2b94af863263,84.29,Denmark,Denmark,Vejle,Vejle,,ho@coolcare.dk,,,"missing_website, missing_year_founded"
+82,Bynder Holding B.V.,Bynder,2a0c38dd-93e5-11eb-8474-3bbe2d07207d,68.8,Netherlands,Netherlands,Amsterdam,Amsterdam,https://www.bynder.com/en/,legal@bynder.com,600.0,100000000.0,ok
+83,C&W Services (S) Pte. Ltd.,CW Aero Services,2d5be122-0a6a-11ec-b841-af64738d2bcd,74.29,Singapore,Singapore,Singapore,Singapore,https://cwaeroservices.com/,accounts@cw.com.sg,25.0,10126821.0,ok
+84,CAMPANA GROUP PTE. LTD.,Campana Group,73d641b5-93e4-11eb-91fb-73d498260b10,83.33,Singapore,Singapore,,,https://campanaworks.com/,info@campanaworks.com,46.0,15000000.0,ok
+85,CBRE AS,CBRE Norway,9dc12706-93e4-11eb-8e19-198fb02d6f96,66.67,Norway,Norway,Oslo,Oslo,https://www.cbre.no/,office.oslo@cbre.com,135000.0,74415251456.0,ok
+86,CBRE Teknisk Servicepartner A/S,CBRE Teknisk servicepartner,57918a20-a8bb-11ed-9a6b-af642bb25f66,95.86,Denmark,Denmark,Aalborg,Aalborg,https://cbre-tekniskservicepartner.dk/,tekniskservicepartner@cbre.com,340.0,230000000.0,ok
+87,CELLUSYS LIMITED,Cellusys,f0e66671-93e4-11eb-b4a6-27899be4e45d,70.0,Ireland,Ireland,Dublin 1,Dublin,https://www.cellusys.com/,sales@cellusys.com,95.0,8500000.0,ok
+88,CENTERFORENINGEN FISKETORVET SHOPPING CENTER F.M.B.A.,Centerforeningen for Nyvangsparken,0729a734-69ff-11ec-a83b-a57bf486820a,73.1,Denmark,Denmark,,,https://nyvangsparkens.dk/,f.jensen.teknik@gmail.com,,,missing_year_founded
+89,CETIN Hungary Zrt.,CETIN Hungary,ffcc1654-120e-11ec-8f83-091abf327b82,90.32,Hungary,Hungary,Törökbálint,Törökbálint,https://cetin.hu/,info@cetin.hu,200.0,20422574.0,ok
+90,CHINA TELECOM GLOBAL LTD,China Telecom Global,26c39d80-93e5-11eb-be5a-4f810ab55f2e,94.55,Hong Kong,Hong Kong,Hong Kong Island,Hong Kong Island,https://www.chinatelecomglobal.com/,ffos.dengchg@chinatelecom.cn,287076.0,2400000.0,ok
+91,CHINA UNICOM (SINGAPORE) OPERATIONS PTE. LTD.,China Unicom Singapore Operations Limited,c12f14b6-b6bc-11ef-b7fc-31383e76ec39,81.86,Singapore,Singapore,Singapore,Singapore,https://cuniq.sg/en/home/,sg-cs@cuniq.com,,,missing_year_founded
+92,CHUBB GLOBAL RISK ADVISORS PTE. LTD.,Chubb Global Risk Advisors,4db78ad2-c000-11ec-8d01-9b40ae94c55f,80.32,Singapore,Singapore,,Singapore,https://www.cgra.com.sg/,enquries.sg@chubb.com,75.0,19513632.0,missing_year_founded
+93,CIBICOM SERVICES A/S,Cibicom A/S.,9cef310b-93e4-11eb-b997-8dd98d09cf25,81.25,Denmark,Denmark,Ballerup,Ballerup,https://cibicom.dk/,sales@cibicom.dk,150.0,36949128.0,ok
+94,CIENA LIMITED,Ciena DE,ad5fdef2-93e4-11eb-97db-273ba5953680,80.0,United Kingdom,United Kingdom,London,London,https://www.ciena.de/,ar@ciena.com,,,missing_year_founded
+95,CISCO INTERNATIONAL LIMITED,Cisco Systems London,17bb1884-8aaf-11ec-97ac-2bfe3222420d,60.64,United Kingdom,United Kingdom,Feltham,London,https://www.cisco.co.uk/,,,,"missing_email, missing_year_founded"
+96,CISCO NORWAY AS,Cisco Systems Norway AS,9efd3f68-c418-11ef-92e8-6df27b7ad8f3,82.37,Norway,Norway,Bærum,Bærum,,,,,"missing_website, missing_email, missing_year_founded"
+97,CITERO AS,Citero,14fe8332-93e5-11eb-8ad6-7326edce8d21,88.0,Norway,Norway,Trondheim,Trondheim,http://citero.no/,jon@citero.no,40.0,3785642.0,ok
+98,"CLOUDERA, INC.",ClouderaNOW24,def72ee7-93e4-11eb-aa66-9b8d95e2171b,80.0,United States,United States,Santa Clara,Santa Clara,http://greaterrichmondhomeloanconnect.com/,support@twilio.com,,,missing_year_founded
+99,Comba Technologies Sdn. Bhd.,V-Smart Technologies Sdn Bhd.,00af1484-93e5-11eb-aa66-9b8d95e2171b,74.21,Malaysia,Malaysia,Subang Jaya,Semenyih,http://vsmart.com.my/v1/,,75.0,3249012.0,"missing_email, missing_year_founded"
+100,COMBA TELECOM LIMITED,Comba Telecom,85816b51-93e4-11eb-a736-0f5b20ecb2f1,75.88,Hong Kong,Hong Kong,Hong Kong Island,New Territories,https://comba-telecom.com/en/,marketing@comba-telecom.com,600.0,766000000.0,ok
+101,Comengineering Sdn. Bhd.,COMENGINEERING SDN BHD.,eb823b24-1e9c-11ee-918e-3b99085851a3,93.72,Malaysia,Malaysia,Subang Jaya,Subang Jaya,,,,,"missing_website, missing_email, missing_year_founded"
+102,COMMSCOPE SOLUTIONS SINGAPORE PTE. LTD.,All Property Solutions Singapore,03be7761-93e5-11eb-a746-fdabd18be9c6,80.56,Singapore,Singapore,Singapore,Singapore,https://apss.com.sg/,info@apss.com.sg,15.0,5542795.0,missing_year_founded
+103,CommScope Technologies AG,Commscope Technologies Ag,ff338e8e-b929-11ed-89f1-bd62b3e1c745,85.0,Switzerland,Switzerland,Zurich,Bachenbülach,,,,,"missing_website, missing_email, missing_year_founded"
+104,COMMSCOPE TECHNOLOGIES LLC,Commscope Technologies K Ltdtd,7e64da92-e11e-11ec-b909-77b33c15dd42,56.43,United States,Kenya,,Nairobi,https://www.commscope-ea.com/,admin@commscope-ea.com,75.0,569635.0,"country_mismatch, missing_year_founded"
+105,COMVIVA TECHNOLOGIES LIMITED,Comviva Technologies,8913e0f5-93e4-11eb-91fb-73d498260b10,90.0,India,India,Gurugram,Gurugram,https://www.comviva.com/,info@comviva.com,3300.0,88700000.0,ok
+106,CONSCIA DANMARK A/S,Conscia Danmark A/S.,33c93c45-a7e0-11ef-af89-216a077ca7fb,88.46,Denmark,Denmark,Glostrup,Ringsted,https://laugesen.io/,martin@laugesen.io,,,missing_year_founded
+107,CONTROL RISKS GROUP LIMITED,Control Risks Group Holdings Ltd.,be890a78-9d75-11ed-816c-8fdd7f384ea6,88.0,United Kingdom,United Kingdom,London,London,https://www.controlrisks.net/,,,107300000.0,missing_email
+108,CORPORATE COMMUNICATIONS AS,Corporate Communications,e48e4e11-93e4-11eb-919a-b3f9a5ad205c,96.47,Norway,Norway,Oslo,Oslo,https://corporatecommunications.no/,admin@corpcom.no,83.0,27943802.0,ok
+109,"COUPA SOFTWARE, INC.",Coupa Software India Pvt. Ltd.,1b4afc0c-8dec-11ec-8c86-416dde49cf85,68.2,United States,United States,San Mateo,Ann Arbor,,,,725299968.0,"missing_website, missing_email"
+110,"COURSERA, INC.",Coursera Inc.,d6c603ec-93e4-11eb-b997-8dd98d09cf25,97.78,United States,United States,Mountain View,Mountain View,https://translate-coursera.org/,,,,"missing_email, missing_year_founded"
+111,CRAYON A/S,Crayon A/S.,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,82.14,Denmark,Denmark,Gladsaxe Municipality,Silkeborg,,,,,"missing_website, missing_email, missing_year_founded"
+112,CRAYON AS,Crayon,06114cdd-2566-11ef-8cf6-9964b1248c28,88.0,Norway,Norway,Oslo,Oslo,https://crayonweb.azurewebsites.net/de/,license.dk@crayon.com,,,ok
+113,CRAYON PTE. LTD.,Crayon Digital Pte Ltd.,11ca0c36-93e5-11eb-b997-8dd98d09cf25,76.15,Singapore,Singapore,,Singapore,https://crayondigital.net/,,2.0,450432.0,"missing_email, missing_year_founded"
+114,"CROWDSTRIKE SERVICES, INC.",CrowdStrike,01be7de3-0c24-11ec-aa7c-a3d935d57c91,75.68,United States,United States,Sunnyvale,Sunnyvale,https://www.mdcoin.net/,publicsector@crowdstrike.com,,,ok
+115,Searcher ApS,Searcher,c7c58151-43ae-11ef-b5d2-e5c02fb4c089,78.0,Denmark,Denmark,Aarhus Municipality,Aarhus,https://searcher.dk/,sk@searcher.dk,10.0,1933729.0,ok
+116,"CUSHMAN & WAKEFIELD SERVICES (THAILAND) CO., LTD.",Cushman & Wakefield Services Thailand Co. Ltd.,e8e82741-5871-11ec-b633-39790144a985,71.74,Thailand,Thailand,,Ratchathewi,,,,,"missing_website, missing_email, missing_year_founded"
+117,DADES Center Ost ApS,Voigt Psykoterapi,00d4aae7-ac7f-11ef-8a17-ed5ac23e983d,69.19,Denmark,Denmark,Kongens Lyngby,Kongens Lyngby,https://voigt-psykoterapi.dk/,,,,"missing_email, missing_year_founded"
+118,BONNIER BUSINESS PRESS A/S,Bonnier Magazine Data,d73874c7-93e4-11eb-a736-0f5b20ecb2f1,68.09,Denmark,Denmark,Copenhagen,Copenhagen,https://www.bm-data.com/,drift@bmd.bonnier.dk,20.0,3960356.0,missing_year_founded
+119,DAILY JURRAT,Daily Dunya,01e830c0-93e5-11eb-91fb-73d498260b10,71.74,Pakistan,Pakistan,Civil Lines,Lahore,http://www.dunya.com.pk/,info@dunya.com.pk,75.0,1000000.0,ok
+120,Dansk Kredit Rad,Dansk Kredit Råd,070edae0-93e5-11eb-b4a6-27899be4e45d,86.25,Denmark,Denmark,Greve Strand,Køge,https://dk-r.dk/,,15.0,2514085.0,"missing_email, missing_year_founded"
+121,DANSK SUNDHEDSSIKRING KOMPLEMENTARSELSKAB ApS,Dansk Sundhedssikring,1f89f1e3-93e5-11eb-b5f6-816dd10ac7b0,78.18,Denmark,Denmark,Herlev,Herlev,http://ds-sundhed.dk/,human.resource@ds-sundhed.dk,210.0,7100000.0,ok
+122,DANSKE BANK A/S,Danske Bank CVI,114fdce6-1246-11ec-9bdc-5f0970ddc6bb,84.0,Denmark,Denmark,,,https://danskebankforeninger.dk/,,75.0,22743520.0,"missing_email, missing_year_founded"
+123,Dantec Nordics ApS,Dantec Nordics,fdd5fee0-9bc7-11ec-abde-87ab8965fdf7,92.5,Denmark,Denmark,Aabenraa Municipality,Aabenraa Municipality,https://www.dantec-nordics.dk/,info@dantec-nordics.dk,75.0,110845936.0,ok
+124,DEAS A/S,DEAS Asset Management,00b85c80-0bf8-11ec-83e9-bfaaab8ed4b6,58.97,Denmark,Denmark,Frederiksberg Municipality,Frederiksberg,https://deas-asset.com/en,anette.grotum@deas-asset.com,80.0,27074638.0,ok
+125,DEKO-STYLE V/ANJA GRONNE,Deko Style,2840eeb8-93e5-11eb-8859-29e7c34dee35,71.76,Denmark,Denmark,Aarhus Municipality,Aarhus Municipality,https://dekostyle.dk/,anja@dekostyle.dk,20.0,2833310.0,ok
+126,DELFI TECHNOLOGIES A/S,Delfi Technologies,8647efa3-93e4-11eb-90d2-e3355a7e800b,94.0,Denmark,Denmark,Køge,Køge,https://www.delfi.com/en/,info@delfi.com,170.0,16500000.0,ok
+127,DELL AS,Dell,beddde1c-93e4-11eb-8859-29e7c34dee35,83.64,Norway,Norway,Oslo,Oslo,http://www.dell.no/?opi=79508299&sa=U&ved=0ahUKEwiSkpfC2KmMAxXBTDABHaXIFoIQ61gIFCgQ&usg=AOvVaw0kwchOCGTWXjKnv_NDR-y3,,,,"missing_email, missing_year_founded"
+128,Dell Corporation (Thailand) Co Ltd,Dellstore Thailand,1fe10718-f025-11ee-9eb6-8ba0a080e844,48.46,Thailand,Thailand,Yan Nawa District,Khan Na Yao,https://dellstorethailand.com/?v=cb21c4d7dea9,sales@nextplayshop.com,75.0,1972454.0,missing_year_founded
+129,DELL PRODUCTS,DELL Repairs,db126bb1-6d0e-11ec-bd4d-65aaf75c66b8,68.4,Ireland,Ireland,,Dublin 7,https://www.dellrepairs.ie/,,4.0,900081.0,"missing_email, missing_year_founded"
+130,DELOITTE ADVOKATFIRMA AS,Deloitte Norge,b69603af-1aff-11ec-bc98-195cbdc2446a,65.26,Norway,Norway,Oslo,Oslo,http://www.deloitte.no/?opi=79508299&sa=U&ved=0ahUKEwiFwZ3V1quMAxValokEHbfFE-sQ61gIFCgQ&usg=AOvVaw1mrNGUeUDJuiYxHwgqhTP6,,,,"missing_email, missing_year_founded"
+131,DELOITTE AS,Deloitte Norge,b69603af-1aff-11ec-bc98-195cbdc2446a,78.4,Norway,Norway,Oslo,Oslo,http://www.deloitte.no/?opi=79508299&sa=U&ved=0ahUKEwiFwZ3V1quMAxValokEHbfFE-sQ61gIFCgQ&usg=AOvVaw1mrNGUeUDJuiYxHwgqhTP6,,,,"missing_email, missing_year_founded"
+132,Deloitte Consulting (Sea) Sdn. Bhd.,Deloitte Consulting Malaysia Sdn Bhd.,4d8576a2-14c1-11ee-98f2-2b13cee7793d,81.67,Malaysia,Malaysia,Kuala Lumpur,Kuala Lumpur,,,,,"missing_website, missing_email, missing_year_founded"
+133,DELOITTE STATSAUTORISERET REVISIONSPARTNERSELSKAB,Revisto Statsautoriseret Revisionspartnerselskab,b14fddd0-93e4-11eb-b89f-536884b3e7dd,79.48,Denmark,Denmark,,Horsens,https://revisto.dk/,info@revisto.dk,40.0,5493573.0,missing_year_founded
+134,"DELTA EJENDOM, AALBORG A/S",Aalborg Engineering A/S.,0ede7fca-2dc6-11ec-b49b-63e83532064d,63.4,Denmark,Denmark,Aalborg Municipality,Aalborg,,,,,"missing_website, missing_email, missing_year_founded"
+135,ELTEK AS,Eltek,169a31db-93e5-11eb-919a-b3f9a5ad205c,86.15,Norway,Norway,Drammen,Drammen,https://www.eltek.com/,info.defra@deltaww.com,2378.0,389697728.0,ok
+136,DELTA ELECTRONICS INT'L (SINGAPORE) PTE. LTD.,Delta Electronics,70923a3d-93e4-11eb-a33a-a3dfba582839,72.9,Singapore,Singapore,Singapore,Singapore,https://www.delta-singapore.com/en-SG/index,nea-privacy@deltaww.com,59.0,23570136.0,ok
+137,DHL EXPRESS (SINGAPORE) PTE. LTD.,DHL Express Service Point - BAG IT DHL Partner,05104ffa-e521-11ed-ac2b-f5f183184b4d,63.86,Singapore,Singapore,Singapore,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+138,DIAL ZERO (PRIVATE) LIMITED,DIAL ZERO,9d28dea3-93e4-11eb-86dd-ffbd1b53140e,60.0,Pakistan,Pakistan,Orangi,Karachi Division,https://dialzero.pk/,sales@dialzero.pk,19.0,91829.0,ok
+139,Nets Denmark A/S,Nets group,1821bc30-93e5-11eb-a746-fdabd18be9c6,67.69,Denmark,Denmark,Ballerup,Ballerup,https://nets.eu/,atata@nets.eu,2700.0,914499968.0,ok
+140,DIGI TELECOMMUNICATIONS SDN BHD,DiGi Telecommunications,c2b35013-93e4-11eb-b997-8dd98d09cf25,81.11,Malaysia,Malaysia,,Petaling Jaya,https://www.celcomdigi.com/,,1473.0,1396809088.0,missing_email
+141,Digi Telecommunications Sdn. Bhd.,DiGi Telecommunications,c2b35013-93e4-11eb-b997-8dd98d09cf25,89.29,Malaysia,Malaysia,Petaling Jaya,Petaling Jaya,https://www.celcomdigi.com/,,1473.0,1396809088.0,missing_email
+142,DK HOSTMASTER A/S,ANDERS LASSEN FONDEN,2015b020-725d-11ec-8323-2bafca655da8,65.95,Denmark,Denmark,Aalborg Municipality,Aalborg Municipality,https://www.anderslassenfonden.dk/,mail@anderslassenfonden.dk,,,missing_year_founded
+143,DNA OYJ,DNA Oy.,08e683e0-1827-11ee-b0e3-d3f35f2a4259,76.43,Finland,Finland,,Turku,,,,,"missing_website, missing_email, missing_year_founded"
+144,DNB Bank Karl Johan,DNB BANK,713a067e-a5ad-11ef-99b4-e30dab6798c3,75.56,Norway,Norway,Oslo,Oslo,https://dnbconnect.org/,info@dnbconnection.com,,,missing_year_founded
+145,"DET NORSKE VERITAS, BUSINESS ASSURANCE, DANMARK A/S",Dansk System Assurance A/S.,8bcafce7-fd80-11ec-b001-69323b7ad0d1,62.31,Denmark,Denmark,Gentofte Municipality,Frederiksberg,https://dsa-forsikringsmaeglere.dk/,dsa@systemassurance.dk,,,missing_year_founded
+146,Dtac Trinet Co Ltd,Dtac-trinet,5ed6dfd6-205c-11ee-8d01-ef4abbbd90e4,66.38,Thailand,Thailand,Bangkok,Saraphi District,,,,,"missing_website, missing_email, missing_year_founded"
+147,DUBEX A/S,Dubex,18777d50-93e5-11eb-be3a-7f925cb94351,82.86,Denmark,Denmark,Gladsaxe Municipality,Gladsaxe Municipality,http://www.dubex.dk/,rje@dubex.dk,70.0,12000000.0,ok
+148,DXC TECHNOLOGY NORGE AS,DXC Technology Norge AS,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,85.0,Norway,Norway,Bergen,Oslo,,,,,"missing_website, missing_email, missing_year_founded"
+149,DXC Technology Sverige AB,DXC Technology Sverige AB.,f19d20b5-250a-11ec-b70f-ed0ff919fa1a,83.82,Sweden,Sweden,Solna,Gothenburg,,,,,"missing_website, missing_email, missing_year_founded"
+150,Dynamic-Telecommunication Sdn. Bhd.,Dynamic-Telecommunication Sdn Bhd.,6fef3cc3-499f-11ee-955d-cffc14e1ac7f,89.13,Malaysia,Malaysia,Ulu Tiram,Johor Bahru,https://www.dynagroup.my/,,75.0,6341352.0,"missing_email, missing_year_founded"
+151,EASTCOMPEACE (SINGAPORE) PTE. LTD.,Eastcompeace Singapore Pte Ltd.,6cc2cc31-a630-11ed-9a26-bbb8582c677b,73.77,Singapore,Singapore,Singapore,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+152,EASTCOMPEACE SMART CARD (BANGLADESH) LIMITED,Eastcompeace Smart Card Bangladesh Limited.,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,82.93,Bangladesh,Bangladesh,,Dhaka,,,,,"missing_website, missing_email, missing_year_founded"
+153,"Eastcompeace Technology Co.,Ltd",Eastcompeace Smart Card Co. Ltd.,10627720-0c9d-11ec-afed-5df60f253491,74.29,China,China,Zhuhai,Zhuhai,https://tomarzam.com/,,,,missing_email
+154,Ecapacity A/S,eCapacity,2a2e9a98-1200-11ec-b96f-e38fcfed8310,89.09,Denmark,Denmark,Copenhagen,Copenhagen,https://ecapacity.com/,info@ecapacity.dk,3.0,5100000.0,ok
+155,ECI Media Management AB,ECI Media Management,2b50edd1-93e5-11eb-a746-fdabd18be9c6,95.81,Sweden,Sweden,Stockholm,Stockholm,https://ecimediamanagement.com/,value@ecimm.com,82.0,4900000.0,ok
+156,ECI MEDIA MANAGEMENT AB,ECI Media Management,2b50edd1-93e5-11eb-a746-fdabd18be9c6,85.81,Sweden,Sweden,,Stockholm,https://ecimediamanagement.com/,value@ecimm.com,82.0,4900000.0,ok
+157,Edotco Group Sdn. Bhd.,edotco Bangladesh Co. Ltd.,2ec1c3c4-bc87-11ec-a11f-5bb3d2519761,67.5,Malaysia,Malaysia,Kuala Lumpur,Kuala Lumpur,,,270.0,30179042.0,"missing_website, missing_email"
+158,EDOTCO TOWERS PAKISTAN (PRIVATE) LIMITED,Pharma Consultant Pakistan,02a936d3-93e5-11eb-b4a6-27899be4e45d,57.27,Pakistan,Pakistan,,Lahore,https://pharmaconsultantpakistan.com/,kashif@pharmaconsultantpakistan.com,13.0,63653.0,ok
+159,Egencia Denmark A/S,Egencia,386ddce7-93e5-11eb-b4a6-27899be4e45d,62.31,Denmark,Denmark,Elsinore,Odense,https://www.egencia.dk/,,,,"missing_email, missing_year_founded"
+160,EGENCIA LLC,Egencia New Zealand,21683381-0e12-11ec-9290-4759484bcf45,66.0,United States,United States,,Chicago,https://www.egencia.co.nz/,nzmanagementteam@egencia.com,,,missing_year_founded
+161,EGENCIA NORWAY AS,Egencia,06e4ced6-ff7f-11eb-84ab-359586b9329a,65.0,Norway,Norway,Oslo,Gjøvik,http://egencia.no/,,150.0,46104336.0,"missing_email, missing_year_founded"
+162,Egencia Sweden AB,Egencia Switzerland,49c538c1-0505-11ec-8ca3-7ba9e5b40c47,45.0,Sweden,United Kingdom,Stockholm,London,https://www.egencia.ch/,gbtprivacy@amexgbt.com,,,"country_mismatch, missing_year_founded"
+163,Egeneration Limited,eGeneration,9ade0445-93e4-11eb-8ad6-7326edce8d21,84.0,Bangladesh,Bangladesh,Dhaka,Dhaka,https://egeneration.co/,,140.0,1361697.0,missing_email
+164,ELGIGANTEN GROSSIST A/S,Elgiganten,6cc5eff0-93e4-11eb-8ad6-7326edce8d21,66.36,Denmark,Denmark,Glostrup,Copenhagen,https://www.elgiganten.dk/,hello@elgiganten.dk,2469.0,843731840.0,ok
+165,ELTEL NETWORKS CONNECT A/S,Eltel Networks,f2d78814-93e4-11eb-8859-29e7c34dee35,82.0,Denmark,Denmark,Herlev,Herlev,https://www.eltelgroup.com/,alexandra.karnlund@eltelnetworks.com,5000.0,2200000.0,ok
+166,Energy Cool ApS,Energy Cool,ab422f07-93e4-11eb-86dd-ffbd1b53140e,90.77,Denmark,Denmark,Fredericia Municipality,Fredericia Municipality,https://energy-cool.com/,dr@energy-cool.com,75.0,17263164.0,ok
+167,ENETEK POWER SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA,Spółka OLOGROUP Spółka z ograniczoną odpowiedzialnością,0a8c7fb4-1403-11ec-9819-3df44af6372a,71.5,Poland,Poland,Dobra,Kielce,https://ologroup.pl/,kontakt@ologroup.pl,75.0,4078577.0,missing_year_founded
+168,ENERGI HOBRO TELE A/S,Energimidt,048d6286-247d-11ed-94bd-fb4903e54c24,67.1,Denmark,Denmark,Silkeborg,Silkeborg,https://www.energimidt.dk/,,,,missing_email
+169,Enreach Campaigns A/S,Campaigns,dd63e4c0-93e4-11eb-8ad6-7326edce8d21,66.0,Denmark,Denmark,Gladsaxe Municipality,Copenhagen,http://www.campaigns.dk/,info@campaignshq.com,1.0,211727.0,ok
+170,Ericsson (Malaysia) Sdn. Bhd.,Ericsson Telecommunications Sdn. Bhd.,03f8d710-588f-11ec-a973-1debdfc94bd7,57.73,Malaysia,Malaysia,Petaling Jaya,Shah Alam,,,,,"missing_website, missing_email, missing_year_founded"
+171,Ericsson (Thailand) Limited,Ericsson Thailand Ltd.,d2916f52-250a-11ec-8093-db09f614eb78,64.39,Thailand,Thailand,Chatuchak,Chatuchak,,,,,"missing_website, missing_email, missing_year_founded"
+172,ERICSSON AB,Ericsson,174c76a1-6a14-11ec-b298-b112a9e6ec9e,80.53,Sweden,Sweden,,Stockholms Kommun,https://ericsson.web.id/,,,,missing_email
+173,ERICSSON AS,Ericsson AS,ff083300-a7b5-11ed-bec3-afeedabcf530,90.0,Norway,Norway,Bærum,Oslo,https://epignosis.no/,,,,"missing_email, missing_year_founded"
+174,ERICSSON DANMARK A/S,Ericsson,36729930-2d35-11ed-98d8-c5babc9e48bf,59.29,Denmark,Denmark,Copenhagen,Taastrup,,,,,"missing_website, missing_email, missing_year_founded"
+175,ERNST & YOUNG LLP,ERNST & YOUNG CC,01a05990-08db-11ee-a82b-313aff40d3b6,52.27,Singapore,United Kingdom,Singapore,London,https://ernstandyoung.play-cricket.com/home,,15.0,3439770.0,"missing_email, country_mismatch, missing_year_founded"
+176,EY Godkendt Revisionspartnerselskab,Ey Grønland Godkendt Revisionsanpartsselskab,f977dde5-f3a1-11ed-b737-7b786e8fdbf4,73.61,Denmark,Denmark,Frederiksberg Municipality,Frederiksberg,,,,,"missing_website, missing_email, missing_year_founded"
+177,ERP DENMARK ApS,Batteriindsamling ERP Denmark ApS.,33a00afc-f81d-11ed-8ed0-97e170af3960,76.73,Denmark,Denmark,Nyborg,Nyborg,http://erp-recycling.dk/?opi=79508299&sa=U&ved=0ahUKEwjzgJOUh7GMAxWCKlkFHZLZL3QQ61gIEigP&usg=AOvVaw0PPZ0r6uBXnllr0sJE3Krs,denmark@erp-recycling.org,,,missing_year_founded
+178,Estel Technologies Private Limited,Estel Technologies,e87217f9-93e4-11eb-8ad6-7326edce8d21,71.54,India,India,Gurugram District,Gurugram,https://esteltelecom.com/,support@esteltechnologies.in,180.0,4300000.0,ok
+179,EUTELSAT S.A.,EUTELSAT IGO,45dbaaf8-93e5-11eb-8e19-198fb02d6f96,83.2,France,France,Paris,Paris,https://www.eutelsatigo.int/en/home/,eschnitzler@eutelsatigo.int,6.0,2466164.0,ok
+180,Ework Group AB (Publ),Ework Group,8674cc02-93e4-11eb-be5a-4f810ab55f2e,81.25,Sweden,Sweden,Stockholm,Stockholm,https://www.eworkgroup.com/,ework.sv@bscs.basware.com,570.0,1700000000.0,ok
+181,EWORK NORDIC ApS,NORDIC MEDICAL SOLUTIONS,c2b5c128-93e4-11eb-8ad6-7326edce8d21,64.0,Denmark,Denmark,Copenhagen,Copenhagen,https://www.nordicms.com/,admin@nordicms.com,20.0,15595274.0,ok
+182,EWORK GROUP NORWAY AS,Universal Music,ef614d16-93e4-11eb-aa66-9b8d95e2171b,60.0,Norway,Norway,Oslo,Oslo,https://universalmusic.no/,atle.schie@umusic.com,1.0,1330505.0,missing_year_founded
+183,EXFO Ltd.,EXFO Finland Oy.,3034bc10-74ad-11ed-9364-a958028bfff1,73.4,Finland,Finland,Oulu,Oulu,,,,,"missing_website, missing_email, missing_year_founded"
+184,EXIDE TECHNOLOGIES AS,Exide Technologies avd Bergen,2253d9c0-1ea3-11ee-b65c-eb6aa2a5b79c,78.0,Norway,Norway,Ullensaker,Stavanger,https://sonnak.com/,,,,"missing_email, missing_year_founded"
+185,EXPRESS PUBLICATIONS (PVT.) LIMITED,Al Huda Publications,14903104-93e5-11eb-90d2-e3355a7e800b,62.73,Pakistan,Pakistan,,Islamabad,http://alhudapublications.org/,,11.0,585000.0,missing_email
+186,Extenda Retail AS Avd Oslo,EXTENDA RETAIL,5890bff3-112b-11ec-b06c-d1fadf322ad0,82.0,Norway,Norway,Tønsberg,Tønsberg,https://44749.org/,,1.0,,missing_email
+187,F5 NETWORKS LIMITED,F5 Networks Inc.,631c5ae7-e7f1-11ec-ad32-8d2a499c20f7,74.57,United Kingdom,United Kingdom,Chertsey,,http://couponannie.co.uk/,,1.0,,"missing_email, missing_year_founded"
+188,FACEBOOK IRELAND LIMITED,Facebook Training Ireland,6de3c7f3-0472-11ec-8154-fd26fdffca6b,76.53,Ireland,Ireland,Dublin,,https://facebooktraining.ie/,,1.0,352531.0,"missing_email, missing_year_founded"
+189,Falck Danmark A/S,Falck Danmark,bdc409a2-93e4-11eb-be3a-7f925cb94351,82.0,Denmark,Denmark,Copenhagen,Aarhus,https://www.falck.dk/,dpo@falck.com,150.0,15722815.0,ok
+190,Fastbridge Malaysia Sdn Bhd,Mall of Malaysia,4bd4a421-725b-11ec-a37c-11c248193b5d,65.12,Malaysia,Malaysia,Petaling Jaya,Petaling Jaya,https://mallofmalaysia.com.my/,yvonneang@mallofmalaysia.com.my,150.0,3848596.0,missing_year_founded
+191,Favro Holding AB,Favro,ff5c55c1-93e4-11eb-aa66-9b8d95e2171b,68.57,Sweden,Sweden,Uppsala,Uppsala,https://www.favro.com/,privacy@favro.com,37.0,1900000.0,ok
+192,Fiberail Sdn. Bhd.,Fiberail Sdn Bhd - Rasah,e2e59257-66d6-11ef-82dc-5501d2cdf0a4,70.71,Malaysia,Malaysia,Kuala Lumpur,Seremban,,,,,"missing_website, missing_email, missing_year_founded"
+193,Fibrecomm Network (M) Sdn. Bhd.,FIBRECOMM,aade3d11-93e4-11eb-919a-b3f9a5ad205c,67.0,Malaysia,Malaysia,Kuala Lumpur,Kuala Lumpur,https://fibrecomm.net.my/,enquiries@fibrecomm.net.my,110.0,9300650.0,ok
+194,DANSK HALON TEKNIK ApS,Dansk Iso Teknik,149e2513-aac5-11ef-8555-0dd834e09bbc,74.21,Denmark,Denmark,Hillerød,Ballerup,https://isoteknik.dk/,mail@isoteknik.dk,14.0,2426824.0,missing_year_founded
+195,FORM DANMARK ApS,Form Danmark,44240fe3-93e5-11eb-919a-b3f9a5ad205c,81.43,Denmark,Denmark,Odder Municipality,Odder,http://www.formdanmark.dk/,md@formdanmark.dk,75.0,15145737.0,missing_year_founded
+196,SYKES ENTERPRISES NORWAY AS,Dalen legesenter,33003ea0-93e5-11eb-b5f6-816dd10ac7b0,62.33,Norway,Norway,Bergen,Bergen,https://dalenlegesenter.no/,,,,"missing_email, missing_year_founded"
+197,GARTNER ADVISORY (SINGAPORE) PTE LTD,Gartner Advisory S Pte Ltd.,5b67817a-1b01-11ec-adc9-5d86e79c45f3,80.71,Singapore,Singapore,Singapore,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+198,GARTNER NORGE AS,Gartner Norge,21d91ebf-1b00-11ec-a8e8-f10d0988514b,88.79,Norway,Norway,Oslo,Oslo,,,,,"missing_website, missing_email, missing_year_founded"
+199,GBT TRAVEL SERVICES UK LIMITED,PAF SECURITISATION NO.,0165a523-f0b3-11ee-849e-f5d408dc71cd,58.46,United Kingdom,United Kingdom,London,London,https://pafsecuritisationno1plc.com/,info@pafsecuritisationno1plc.com,75.0,49349144.0,missing_year_founded
+200,Genex Infosys Limited,Genex Infosys,ce7a4c04-93e4-11eb-90d2-e3355a7e800b,85.88,Bangladesh,Bangladesh,Dhaka,Dhaka,https://genexinfosys.com/,info@genexinfosys.com,2400.0,5911386.0,ok
+201,GEO ENTERTAINMENT TELEVISION (PVT.) LIMITED,Geo Mobile & Easypaisa Shop,00716e81-0933-11ee-be6e-095ff0fb6228,50.71,Pakistan,Pakistan,,Burewala,,,,,"missing_website, missing_email, missing_year_founded"
+202,GINTEL AS,Gintel Norway,404994d0-93e5-11eb-8474-3bbe2d07207d,72.73,Norway,Norway,Trondheim,Trondheim,https://www.gintel.com/,sales@gintel.com,52.0,23300000.0,ok
+203,GLOBALCONNECT A/S,GlobalConnect,d9a64075-93e4-11eb-9937-4fab995bf8ff,82.0,Denmark,Denmark,Høje-Taastrup Municipality,Copenhagen,https://globalconnect.dk/,kontakt@globalconnect.dk,,,missing_year_founded
+204,Glory Fashions Ltd.,Glory Fashions,fe92eb43-93e4-11eb-9937-4fab995bf8ff,90.91,Bangladesh,Bangladesh,Dhaka,Dhaka,https://gloryfashions.com/,alaksaha@gloryfashions.com,75.0,496709.0,missing_year_founded
+205,Goecker Service A/S,Goecker since 1862,eb6bf704-93e4-11eb-97db-273ba5953680,82.16,Denmark,Denmark,Copenhagen,Copenhagen,https://goecker.dk/,service@dfaservice.dk,24.0,225000.0,ok
+206,GOGIFT.COM A/S,GoGift,b8ca3bec-93e4-11eb-9937-4fab995bf8ff,66.0,Denmark,Denmark,,Copenhagen,https://www.global.gogift.com/,global@gogift.com,120.0,7000000.0,ok
+207,Google Asia Pacific Pte. Ltd.,Google Asia Pacific Pte. Ltd.,1d514729-01ae-11ef-ba8c-a5c322c4d97c,90.0,Singapore,Singapore,Singapore,,https://duoi625maxim.com/,,,,"missing_email, missing_year_founded"
+208,Google Cloud EMEA Limited,Google Cloud,a7fea907-199d-11f0-9eba-c9ebbf6c8560,43.92,Ireland,United States,,Mountain View,https://swissrallvays.shop/,bq-project-config-service@google.com,,,"country_mismatch, missing_year_founded"
+209,GOOGLE COMMERCE LIMITED,Google Commerce Limited,be55a775-c4b2-11ec-af9f-718ab7b26330,90.0,Ireland,Ireland,,Dublin 4,https://lespotnoir.com/,account-withdrawal@google.com,,,missing_year_founded
+210,GOOGLE IRELAND LIMITED,Anbieter Google Ireland Limited,b8598dac-ae74-11ef-82bd-d94876b0cbdf,79.81,Ireland,Ireland,Dublin 4,Dublin,https://ausbildung-elektro-ostfriesland.de/,bewerbung@ausbildung-elektro-ostfriesland.de,,,missing_year_founded
+211,GRAMEENPHONE LTD,Grameenphone Centre,0e257043-dc98-11ef-b8b0-a1dc081da81f,66.14,Bangladesh,Bangladesh,,Dhaka,,,,,"missing_website, missing_email, missing_year_founded"
+212,Grassfish Denmark ApS,Jysk Auto ApS.,09dabf8f-02f4-11ed-97ce-2bd0fada5731,64.0,Denmark,Denmark,Aarhus Municipality,Aarhus Municipality,https://jyskauto.dk/,info@jyskauto.dk,30.0,18099732.0,missing_year_founded
+213,Green Packet Berhad,GREEN PACKET,ba0505da-93e4-11eb-97db-273ba5953680,86.45,Malaysia,Malaysia,Petaling Jaya,Petaling Jaya,https://www.greenpacket.com/,info@greenpacket.com,800.0,135500000.0,ok
+214,GreenMind A/S,GreenMind,205a2882-092a-11ee-b84c-9b2922821bc8,74.09,Denmark,Denmark,Gladsaxe Municipality,Rødovre Municipality,,,,,"missing_website, missing_email, missing_year_founded"
+215,grey advertising ( bangladesh) ltd.,ADVERTISING BANGLADESH,5e9513a1-d868-11ed-b943-0b8fb5e4efa0,76.32,Bangladesh,Bangladesh,,Dhaka,https://advertisingbangladesh.com/,advertisingbangladeshltd@gmail.com,75.0,947445.0,ok
+216,GSM ASSOCIATION,GSMA Training,b1eae542-93e4-11eb-aa66-9b8d95e2171b,65.71,United Kingdom,United Kingdom,London,London,https://www.gsmatraining.com/,support@gsmaadvance.com,75.0,10606294.0,missing_year_founded
+217,"HARBIN COSLIGHT NEW ENERGY CO., LTD.",Harbin Xinju New Energy Co. Ltd.,4214b8bf-1d88-11ef-a07a-c90c75a354c8,80.88,China,China,Harbin,Harbin,,,,,"missing_website, missing_email, missing_year_founded"
+218,HE SIKRING A/S,Sikring Vest A/S.,a40484c0-0ae9-11ec-8b96-2f712d78ea00,72.58,Denmark,Denmark,Furesø Municipality,,http://sikringvest-as.dk/Sikring_Vest_A_S/Sikring_Vest_A_S.html,lsh@sikringvest-as.dk,3.0,1038391.0,missing_year_founded
+219,HELP Forsakring filial,HELP Försäkring,8dbea451-93e4-11eb-a33a-a3dfba582839,72.16,Sweden,Sweden,,Stockholm,https://helpforsakring.se/,info@helpforsakring.se,40.0,4992472.0,ok
+220,HELP FORSIKRING AS,HELP Forsikring,a90e10f4-93e4-11eb-be5a-4f810ab55f2e,94.55,Norway,Norway,Oslo,Oslo,https://help.no/,post@help.no,250.0,24600000.0,ok
+221,"HELP FORSIKRING,FILIAL AF HELP FORSIKRING AS, NORGE",HELP Forsikring,bb79f296-93e4-11eb-86dd-ffbd1b53140e,67.27,Denmark,Denmark,Copenhagen,Copenhagen,https://helpforsikring.dk/,personvern@help.no,6.0,895237.0,ok
+222,HERM. RASMUSSEN A/S,Ole Rasmussen,0f7a8714-0ca8-11ec-8056-69dcbcdd8412,71.25,Denmark,Denmark,Silkeborg Municipality,Hedensted Municipality,https://www.or-vognmand.dk/,ole@or-vognmand.dk,7.0,1492268.0,missing_year_founded
+223,HEST AGENTUR AS,HEST Agentur,19b24740-93e5-11eb-aa66-9b8d95e2171b,93.33,Norway,Norway,Oslo,Oslo,https://hestagentur.no/,ole@hestagentur.no,3.0,810583.0,ok
+224,HETEK A/S,HETEK,6cf9d142-93e4-11eb-8859-29e7c34dee35,82.86,Denmark,Denmark,Vejle,Vejle,https://hetek.dk/,info@hetek.dk,50.0,10603541.0,missing_year_founded
+225,Hewlett-Packard (M) Sdn Bhd,Hewlett-Packard M Sdn. Bhd.,c4a8edac-a10f-11ed-8865-3b27972b8eff,76.11,Malaysia,Malaysia,,Bayan Lepas,,,,,"missing_website, missing_email, missing_year_founded"
+226,Hewlett-Packard (Thailand) Ltd.,Hewlett-Packard Thailand Company Limited,c71f7ee3-0402-11ef-a267-5139ead7b0d4,62.18,Thailand,Thailand,Bangkok,Klaeng,,,,,"missing_website, missing_email, missing_year_founded"
+227,HEWLETT-PACKARD ApS,Hewlett-Packard ApS.,571d319b-1e68-11ee-8977-f9df9a4bf47f,83.46,Denmark,Denmark,Lillerød,Aarhus,,,,,"missing_website, missing_email, missing_year_founded"
+228,HEWLETT-PACKARD NORGE AS,Linestore,00bb2912-918f-11ed-b02c-eb054ee9ca4a,61.82,Norway,Norway,Bærum,Bærum,https://linestore.no/,contact@linestore.no,15.0,2775603.0,missing_year_founded
+229,"Hewlett Packard Singapore (Sales) Pte., Ltd.",Hewlett Packard Depot Rd,d3c03269-e0ca-11ee-af37-875b13c328d9,68.53,Singapore,Singapore,Singapore,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+230,HEWLETT-PACKARD SVERIGE AB,Hewlett-Packard Sverige AB.,4676a351-f930-11ed-b4e8-cf8e051b3eab,83.87,Sweden,Sweden,,Malmo,,,,,"missing_website, missing_email, missing_year_founded"
+231,"HIGH TOUCH, INC.",High Touch High Tech,973dd312-93e4-11eb-90d2-e3355a7e800b,83.33,United States,United States,Los Angeles,Los Angeles,http://sciencemadefunwla.net/,info@sciencemadefunwla.net,75.0,5300000.0,missing_year_founded
+232,HOLDSPORT.DK ApS,Holdsport,acbf3216-93e4-11eb-a746-fdabd18be9c6,83.2,Denmark,Denmark,Aarhus,Aarhus,https://www.holdsport.dk/,mia75madsen@gmail.com,20.0,139000.0,ok
+233,HOPPECKE BATTERIEN GMBH & CO. KG,Hoppecke Batterien bremecketal,421f907b-c406-11ef-abec-3bdf402d3fc2,63.71,Germany,Germany,,Brilon,,,,,"missing_website, missing_email, missing_year_founded"
+234,HP INC (THAILAND) COMPANY LIMITED,B.M.G CORPORATION CO LTD.,015d07c4-93e5-11eb-9937-4fab995bf8ff,52.76,Thailand,Thailand,Bang Rak District,Bang Rak,https://www.bmgcorporationltd.com/,bmgcorporationltd@gmail.com,75.0,2426858.0,ok
+235,HP INC DANMARK ApS,HP Inc Denmark ApS.,e861f812-cf3e-11ed-a9e6-41f52173ea03,90.14,Denmark,Denmark,Lillerød,Lillerød,,,,,"missing_website, missing_email, missing_year_founded"
+236,HP NORGE AS,HP Norge,6fb6df80-918f-11ed-9198-5108792e5842,90.53,Norway,Norway,Bærum,Bærum,https://hp-norge.no/,hp.info@fremtidskontoret.no,75.0,,missing_year_founded
+237,Hp Pps Sales Sdn. Bhd.,HP PPS Sales Sdn Bhd.,d5c3fb2e-a8c9-11ef-9c3c-1f32e3c7982a,98.6,Malaysia,Malaysia,Kuala Lumpur,Kuala Lumpur,https://hp-aipcvideocontest.com/,,,,"missing_email, missing_year_founded"
+238,HP PPS SINGAPORE (SALES) PTE. LTD.,HP Alumni Singapore,043024f0-93e5-11eb-b5f6-816dd10ac7b0,63.96,Singapore,Singapore,Bukit Merah,Singapore,https://shpa.org.sg/,hpa.secretariat@gmail.com,4.0,935706.0,ok
+239,HUAWEI INTERNATIONAL PTE. LTD.,Huawei Concept Store NEX,21a19426-1b00-11ec-a369-3dffd1104e43,61.67,Singapore,Singapore,,,,,,,"missing_website, missing_email, missing_year_founded"
+240,Huawei Technologies (Bangladesh) Limited.,Bumblebee Tech,0c3e379f-93e5-11eb-a33a-a3dfba582839,51.82,Bangladesh,Bangladesh,,Dhaka,http://www.bumblebeetech.com.bd/,sales@bumblebeetech.com.bd,9.0,9800000.0,ok
+241,HUAWEI TECHNOLOGIES (DENMARK) ApS,Xplora Technologies Denmark,3821892f-0c58-11ec-a1e5-5b23ac48a38b,80.0,Denmark,Denmark,Copenhagen,Copenhagen,https://xplora.dk/,kristinna.kristensen@xplora.com,75.0,17710244.0,missing_year_founded
+242,Huawei Technologies (Malaysia) Sdn. Bhd.,Huawei Technologies Malaysia Sdn Bhd TRX,3e229adb-f5be-11ed-9659-9b00f4ea9e93,75.5,Malaysia,Malaysia,Kuala Lumpur,Kuala Lumpur,,,,,"missing_website, missing_email, missing_year_founded"
+243,"HUAWEI TECHNOLOGIES (THAILAND) CO., LTD.",Huawei Technologies Thailand Co Ltd.,98a3b367-2d1d-11ed-bff5-21b6c2658068,72.63,Thailand,Thailand,Bangkok,,https://www.transformex.org/,,,,"missing_email, missing_year_founded"
+244,HUAWEI TECHNOLOGIES NORWAY AS,Huawei Technologies Norway AS,fea798e2-1afc-11ec-9308-05476ec24aab,95.0,Norway,Norway,Bærum,Bærum,,,,,"missing_website, missing_email, missing_year_founded"
+245,HUAWEI TECHNOLOGIES PAKISTAN (PRIVATE) LIMITED,Huawei Technologies Pakistan,4bd95951-e516-11ed-ae31-691dccb8b954,70.41,Pakistan,Pakistan,Islamabad,Lahore,,,,,"missing_website, missing_email, missing_year_founded"
+246,Huawei Technologies Sweden AB,Huawei Sweden Hackathon,e0fcb950-453e-11ee-9a94-efaadc7f2382,74.62,Sweden,Sweden,,,https://huaweihackathon2023.se/,,,,"missing_email, missing_year_founded"
+247,HUBER+SUHNER A/S,Huber Suhner A/S.,7d5aecb0-1b05-11ec-88d5-df9161de908b,79.55,Denmark,Denmark,Furesø Municipality,Værløse,,,,,"missing_website, missing_email, missing_year_founded"
+248,Huber+Suhner AG,Huber Suhner AG,30069d60-1403-11ec-a8a5-7542bec9389d,86.0,Switzerland,Switzerland,Herisau,Pfäffikon,http://exhubersuhner.ch/,kassier@exhubersuhner.ch,150.0,37782676.0,missing_year_founded
+249,HUBER+SUHNER ELECTRONICS PRIVATE LIMITED,HUBER SUHNER Polatis Limited sp.z o.o.,6e3a4071-93e4-11eb-be3a-7f925cb94351,32.69,India,United Kingdom,New Delhi,Cambridge,https://www.polatis.com/,info.polatis@hubersuhner.com,150.0,7800000.0,country_mismatch
+250,Hum Network Limited,Hum Network,395074a2-93e5-11eb-a746-fdabd18be9c6,74.0,Pakistan,Pakistan,Saddar Town,Karachi Division,https://www.humnetwork.tv/,mohsin.naeem@hum.tv,721.0,5750132.0,ok
+251,Human Edge Management AG,Human Edge,14161f0e-93e5-11eb-97db-273ba5953680,75.29,Switzerland,Switzerland,Basel,Basel,http://human-edge.com/,info@human-edge.com,29.0,6658730.0,ok
+252,Hydro Energi AS,Hydro Rein,f035adb0-d13e-11ec-a4fa-c3f40e4b757a,64.0,Norway,Norway,Oslo,Oslo,https://www.hydrorein.com/,rein@hydro.com,105.0,159607200.0,ok
+253,IBM DANMARK A/S,IBM CIC.,ccf0aeb1-1b03-11ec-a15b-458b278fe121,45.87,Denmark,Denmark,,Copenhagen,,,,,"missing_website, missing_email, missing_year_founded"
+254,Idemia France SAS,IDEMIA France SAS.,33e93227-8a9a-11ec-8f0a-eb02b2415b08,88.29,France,France,,Courbevoie,https://www.bioscrypt.com/,,,2600000000.0,missing_email
+255,OBERTHUR TECHNOLOGIES NORWAY AS,Oberthur Technologies,03831c14-93e5-11eb-a33a-a3dfba582839,53.46,Norway,France,Stavanger,Paris,https://www.oberthur.com/,,14000.0,3218017536.0,"missing_email, country_mismatch"
+256,"IKANO BANK, FILIAL AF IKANO BANK AB (PUBL), SVERIGE",Ikano Bank Leasing,5b5ec89c-aab9-11ef-8c37-f97fe3d0526b,66.09,Denmark,Denmark,Glostrup,Glostrup,https://www.vinnuleasing.fo/,kbr@ikano.dk,,,missing_year_founded
+257,Imi Mobile Vas Limited,Bangla Trac Miaki Vas Limited,d17fb890-2507-11ec-af5c-e506962f8a3b,60.29,Bangladesh,Bangladesh,,Dhaka,,,,,"missing_website, missing_email, missing_year_founded"
+258,IMIMOBILE EUROPE LIMITED,IMImobile,df37ba50-93e4-11eb-b89f-536884b3e7dd,72.73,United Kingdom,United Kingdom,London,London,https://imimobile.com/,info@imimobile.com,1100.0,134771712.0,ok
+259,INDEPENDENT MEDIA CORPORATION (PRIVATE) LIMITED.,Private Helipad Ali Villa,01004641-1dd8-11ef-9268-316fc8e174dd,56.37,Pakistan,Pakistan,Karachi,Karachi,,,,,"missing_website, missing_email, missing_year_founded"
+260,INFINERA CORPORATION,INFINERA CORP,3eb2bbab-17c0-11f0-af94-ddfd1c46b53d,87.27,United States,United States,San Jose,San Jose,https://www.infinerac.xyz/,sale@infinerac.xyz,,,missing_year_founded
+261,INFOMEDIA A/S,INFOMEDIA,fa89bf14-93e4-11eb-9937-4fab995bf8ff,89.09,Denmark,Denmark,Copenhagen,Copenhagen,https://infomedia.dk/,support@infomedia.dk,200.0,16000000.0,ok
+262,INFOSYS LIMITED,Infosys Limited,dcc5e190-22df-11ec-817c-6169a8cec47d,95.0,India,India,Bengaluru,Bengaluru,,,,,"missing_website, missing_email, missing_year_founded"
+263,Ingram Micro Mobility Sweden AB,INGRAM MICRO NORDIC LOGISTICS AB.,23bb110e-49a8-11ef-b831-79711486170a,58.75,Sweden,Sweden,,Borås,,,3.0,,"missing_website, missing_email, missing_year_founded"
+264,inlumi ApS,InLumi DOT,72c0cb60-0a5c-11ed-93fa-95e7af8bdf7c,72.0,Denmark,Denmark,Ballerup Municipality,Assens Municipality,https://inlumidot.dk/,info@inlumidot.dk,8.0,1310411.0,missing_year_founded
+265,INSIDER SECURITY PTE. LTD.,InsiderSecurity,b99023f2-93e4-11eb-a33a-a3dfba582839,73.9,Singapore,Singapore,Singapore,,https://insidersecurity.co/,hello@insidersecurity.co,32.0,8417258.0,ok
+266,INTEGRITY RISK INTERNATIONAL LLC,Integrity Risk International,99015501-93e4-11eb-b4a6-27899be4e45d,96.0,United States,United States,Reston,Reston,https://www.integrityriskintl.com/,info@integrityriskintl.com,42.0,10685824.0,ok
+267,Intouch Insight Inc.,Intouch Insight,886a8187-93e4-11eb-b4a6-27899be4e45d,91.43,Canada,Canada,Ottawa,Ottawa,https://www.intouchinsight.com/,letschat@intouchinsight.com,180.0,15500000.0,ok
+268,Intrum Debt Finance AG,FINANCE SKY,04fe7362-01b4-11ef-ade1-91904611b689,59.09,Switzerland,Switzerland,Zoug,Baar,https://www.financesky.ch/,info@financesky.ch,5.0,1033708.0,ok
+269,ADVIS A/S,Advis,0cdd9ee4-04c2-11ec-88e6-abf0591e0a83,47.86,Denmark,Sweden,Copenhagen,,https://advis.se/,info@advis.se,30.0,3571306.0,country_mismatch
+270,IPG MEDIABRANDS (SINGAPORE) PTE. LTD.,IPG Mediabrands APAC,9b3460e0-4e9a-11ef-9005-197c1f23de9c,62.89,Singapore,Singapore,,Singapore,,,20.0,4481691.0,"missing_website, missing_email"
+271,Ipsos Sdn. Bhd.,Ipsos Sdn Bhd.,dff13de7-1afd-11ec-a31a-a7a88bbb321b,82.93,Malaysia,Malaysia,,Kuala Lumpur,,,,,"missing_website, missing_email, missing_year_founded"
+272,ISS Facility Services A/S,ISS Facility Services Ltd.,52dd79a7-64a6-11ee-8ba4-c1d00e9cebfd,89.41,Denmark,Denmark,Gladsaxe Municipality,Gladsaxe Municipality,https://frontend-issworld-demo.vercel.app/en,press@group.issworld.com,,,ok
+273,ISS FACILITY SERVICES AB,ISS Facility Services AB.,4cf5285b-27d1-11ef-bd6f-218060e3190a,83.78,Sweden,Sweden,,Västervik,,,,,"missing_website, missing_email, missing_year_founded"
+274,ISS FACILITY SERVICES AS,ISS Facility Services AS,efbe1611-263f-11ec-b5b4-bfd9daeb9f18,100.0,Norway,Norway,Oslo,Oslo,https://kantinebetaling.no/,,,,"missing_email, missing_year_founded"
+275,ISS GLOBAL A/S,ISS GLOBAL,03a29e1d-0e0f-11ec-9e7a-c7c07683508d,55.0,Denmark,United Kingdom,Gladsaxe Municipality,London,https://iss-global-bmt.com/,ahmed@iss-global-bmt.com,75.0,27084392.0,"country_mismatch, missing_year_founded"
+276,ITECTRA A/S,Itectra,6d50f1e1-93e4-11eb-b4a6-27899be4e45d,76.67,Denmark,Denmark,Aalborg Municipality,Aalborg,https://itectra.com/,info@itectra.com,12.0,2697310.0,ok
+277,JACK OF DIGITAL (PRIVATE) LIMITED,Jack of Digital,aceeb54f-027f-11ec-adbd-5ff720d6d289,77.5,Pakistan,Pakistan,Saddar Town,Saddar Town,https://jackofdigital.com/,info@jackofdigital.com,38.0,1000000.0,ok
+278,AEON DANMARK A/S,Aeon art,799f4640-93e4-11eb-97db-273ba5953680,65.0,Denmark,Denmark,Vejle,Kastrup,https://aeonart.co/,info@aeonart.co,1.0,96339.0,missing_year_founded
+279,Jastel Network Co Ltd,Cloud It Network,1d57bf00-0a1a-11ec-8b9b-3d48f87783fc,68.92,Thailand,Thailand,Pak Kret City Municipality,Chatuchak,https://www.clouditnetwork.com/,sales@clouditnetwork.com,,,missing_year_founded
+280,JLL Corporate Solutions AB,JLL CORPORATE SOLUTIONS AB.,117f0e3f-9c88-11ef-8bab-03376d671938,83.87,Sweden,Sweden,,Stockholm,,,,,"missing_website, missing_email, missing_year_founded"
+281,JOB-INDEX A/S,Jobindex,95040fb3-93e4-11eb-9937-4fab995bf8ff,85.71,Denmark,Denmark,Copenhagen,Copenhagen,https://jobindex.tv/,,75.0,6598815.0,"missing_email, missing_year_founded"
+282,JOBSTREET.COM PTE LTD,International Tax Management,04f6a945-93e5-11eb-8474-3bbe2d07207d,59.59,Singapore,Singapore,Singapore,Singapore,https://itm.com.sg/,nico.derksen@itm.com.sg,3.0,154088.0,ok
+283,JOHNSON CONTROLS DENMARK APS,Johnson Controls Denmark ApS Head office,3029aeeb-1b04-11ec-be44-b33b64e33ebc,84.41,Denmark,Denmark,Aarhus,Aarhus,,,,,"missing_website, missing_email, missing_year_founded"
+284,JONES LANG LASALLE PROPERTY CONSULTANTS PTE LTD,Jones Lang Lasalle Property Consultants Pte. Ltd.,a0c7c82f-a62d-11ed-b2cd-53de41d2c5f2,83.75,Singapore,Singapore,,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+285,Kahoot! Denmark ApS,Kahoot,14b174a0-93e5-11eb-8ad6-7326edce8d21,33.8,Denmark,Norway,Copenhagen,Oslo,https://kahoot.com/,privacy@kahoot.com,422.0,163000000.0,country_mismatch
+286,KAMTOWER DANMARK A/S,Sun Creature,2412ae54-93e5-11eb-919a-b3f9a5ad205c,55.0,Denmark,Denmark,Copenhagen,Copenhagen,https://suncreature.com/,contact@suncreature.com,75.0,14129701.0,missing_year_founded
+287,KANTAR TNS AS,Kantar,0013bee4-93e5-11eb-b89f-536884b3e7dd,77.89,Norway,Norway,Oslo,Oslo,https://kantar.no/,heidi.stamgaard@kantar.com,150.0,46283712.0,missing_year_founded
+288,"Kaon Broadband Co.,Ltd.",KAON BROADBAND,39d1a58b-0586-11ec-ad6d-99fb67e6c4ba,85.41,South Korea,South Korea,Seongnam-si,Seongnam-si,http://www.kaonbroadband.com/home.do?lang=en,,,,"missing_email, missing_year_founded"
+289,KERRY FREIGHT PAKISTAN (PRIVATE) LIMITED,Kerry Freight Pakistan PVT LTD.,da7ed6a5-fb93-11ee-aa89-23a399016fc1,68.94,Pakistan,Pakistan,,Karachi,,,,,"missing_website, missing_email, missing_year_founded"
+290,Kerry Logistics Network Limited,Kerry Logistics,d06cf44c-93e4-11eb-a33a-a3dfba582839,69.13,Hong Kong,Hong Kong,Kwai Chung,Hong Kong Island,https://kerrylogistics.com/,contact@kerrylogistics.com,42000.0,6834542080.0,ok
+291,KINLY HOLDING AS,Kinly AS avd Trondheim,ea275f75-2672-11ee-aaf2-7fedf3310a03,56.58,Norway,Norway,Stavanger,Trondheim,,,,,"missing_website, missing_email, missing_year_founded"
+292,KINNARPS A/S,Kinnarps,b0eab351-93e4-11eb-be5a-4f810ab55f2e,78.0,Denmark,Denmark,Brøndby,Brøndbyvester,https://www.kinnarps.dk/,info@kinnarps.dk,150.0,46535336.0,ok
+293,KLM-ROYAL DUTCH AIRLINES Filial av utenlandsk foretak.,Foretak. KLM-Royal Dutch Airlines filial Av utenlandsk,db8d8f95-f669-11ed-a149-9b392686bc00,95.0,Norway,Norway,Oslo,Oslo,,,,,"missing_website, missing_email, missing_year_founded"
+294,KM TELECOM DANMARK A/S,KM TELECOM,483419e2-93e5-11eb-8474-3bbe2d07207d,77.5,Denmark,Denmark,Fredericia Municipality,Fredericia Municipality,https://km-telecom.com/,mail@km-telecom.com,150.0,57397932.0,missing_year_founded
+295,KMD Venture A/S,Venture Group A/S.,04664e62-f73e-11ed-828d-457da4dc0427,68.64,Denmark,Denmark,Ballerup,Aalborg,,,,,"missing_website, missing_email, missing_year_founded"
+296,KODA,AUTOR,34512921-cd98-11ec-8506-afdec304713d,53.33,Denmark,Denmark,Copenhagen,Copenhagen,https://www.autor.dk/,autor@autor.dk,75.0,11562935.0,missing_year_founded
+297,KOLEGRUPPEN OST ApS,Kølegruppen Øst ApS.,48005fb1-93e5-11eb-8474-3bbe2d07207d,82.31,Denmark,Denmark,Ishøj Municipality,Silkeborg,https://koelegruppen.dk/,info@koelegruppen.dk,75.0,15878717.0,ok
+298,KOMMANDITAKTIESELSKABET FREDERIKSSUND SHOPPINGCENTER,Frederikssund Traktor- og Maskinservice,01e4df40-250a-11ec-849c-ffcf1f4730e5,59.29,Denmark,Denmark,Aalborg,Frederikssund,,,,,"missing_website, missing_email, missing_year_founded"
+299,KORN FERRY (UK) LIMITED,Korn Ferry,2a5d0b59-1b05-11ec-8de4-3bb83042adac,71.36,United Kingdom,United Kingdom,London,London,,,,,"missing_website, missing_email, missing_year_founded"
+300,Kpmg AS Hovedkontor,Kpmg AS,f06c2d62-93e4-11eb-919a-b3f9a5ad205c,62.31,Norway,Norway,Oslo,Vegårshei,http://www.kpmg.no/,,,,"missing_email, missing_year_founded"
+301,KROLL ASSOCIATES U.K. LIMITED,Kroll,52c95451-18ff-11f0-b726-e3ae0b5c2c98,57.65,United Kingdom,United Kingdom,London,London,https://krollescrow.com/en/services/agency-and-trustee-services/escrow-agent.html,mediarelations@kroll.com,,,ok
+302,Kromann Reumert,Kromann Reumert,76c8a6a0-93e4-11eb-b89f-536884b3e7dd,100.0,Denmark,Denmark,Copenhagen,Copenhagen,https://kromannreumert.com/,mail@kromannreumert.com,620.0,104010784.0,ok
+303,LOXYSOFT AS,Bording Cognito AS,179b9c40-93e5-11eb-97db-273ba5953680,64.83,Norway,Norway,Oslo,Oslo,https://cognito.no/,hei@cognito.no,17.0,5513354.0,ok
+304,LEASE PLAN FINANS A/S,LEASE A BOX,b62def1d-09ce-11ed-b7b2-8da18dc3cc6a,60.0,Denmark,Denmark,Brøndby,Helsinge,https://www.leaseabox.dk/,info@leaseabox.dk,15.0,772224.0,missing_year_founded
+305,LeasePlan Sverige AB,Leaseplan,fb1700e9-1b5d-11ec-9e2d-97948a03f19d,77.24,Sweden,Sweden,Solna,Solna,https://www.leaseplan.se/,,1.0,9000000.0,missing_email
+306,LEOCH BATTERY PTE. LTD.,LEOCH Battery,9b2222a0-9c13-11ec-a427-3716f54dd1e5,83.33,Singapore,Singapore,Singapore,Singapore,http://leoch.sg/,marketing.apac@leoch.com,55.0,20758510.0,ok
+307,LINKEDIN IRELAND UNLIMITED COMPANY,LinkedIn Ireland Unlimited Company,87a7dad6-cd82-11ec-b775-d339108ca9d0,65.0,Ireland,Czechia,Dublin 2,Brno,https://schmuckhilft.info/,info@roboticky-vysavac.cz,30.0,3201810.0,country_mismatch
+308,LINKEDIN SINGAPORE PTE. LTD.,Linkedin Local Singapore,bd538962-a9a1-11ec-819d-93d1c51cb0f0,86.15,Singapore,Singapore,Singapore,Singapore,https://www.localx.org/,,,,missing_email
+309,L.M. Ericsson Bangladesh Ltd.,LM Ericsson Bangladesh Ltd.,8fc467df-1b06-11ec-a68d-499e0c2c3a34,82.86,Bangladesh,Bangladesh,,Chattogram,,,,,"missing_website, missing_email, missing_year_founded"
+310,SCANOPTIK A/S,Torp Byg,046f9ef0-93e5-11eb-86dd-ffbd1b53140e,57.14,Denmark,Denmark,Aalborg,Aalborg,https://www.torpbyg.dk/,torpbyg@doc.e-komplet.dk,15.0,3367544.0,ok
+311,LOYALTY AS,Loyalty,3700913b-93e5-11eb-a746-fdabd18be9c6,89.41,Norway,Norway,Oslo,Oslo,https://www.loyalty.no/,post@loyalty.no,180.0,17581424.0,ok
+312,MAKIO ApS,MAKIO,b43ac8b9-93e4-11eb-a746-fdabd18be9c6,72.86,Denmark,Denmark,Copenhagen,Copenhagen Municipality,https://makio.dk/,hej@makio.dk,75.0,6598815.0,missing_year_founded
+313,Manpower Student AB,Manpower,194b4815-93e5-11eb-a736-0f5b20ecb2f1,75.56,Sweden,Sweden,Solna,Solna,https://www.manpower.se/sv/,,330.0,14684310.0,missing_email
+314,MANPOWER AS,MANPOWER,753387b2-93e4-11eb-aa66-9b8d95e2171b,90.53,Norway,Norway,Oslo,Oslo,https://www.manpower.no/nb,,4000.0,487000.0,missing_email
+315,Mapspeople A/S,MapsPeople,9e655640-93e4-11eb-a736-0f5b20ecb2f1,90.0,Denmark,Denmark,Nørresundby,Nørresundby,https://www.mapspeople.com/,pc@mapspeople.com,130.0,6800000.0,ok
+316,MARKEDSSJEFENE AS,Markedssjefene,49eaca92-93e5-11eb-a33a-a3dfba582839,94.19,Norway,Norway,Oslo,Oslo,https://www.markedssjefene.no/,kontakt@markedssjefene.no,38.0,12960193.0,ok
+317,JLT Denmark A/S,Colas Danmark,002ff970-93e5-11eb-8ad6-7326edce8d21,68.57,Denmark,Denmark,Lyngby-Taarbæk Municipality,Horsens,http://colas.dk/,hst@colas.dk,228.0,210093952.0,ok
+318,MARSH & MCLENNAN AGENCIES AS,Gulbrandsen Agencies,9ebf87d2-0b0f-11ec-919d-09f69a4e0983,72.5,Norway,Norway,Oslo,Oslo,https://gulbrandsen-agencies.no/,gulbrandsen@gulbrandsen-agencies.no,15.0,13430305.0,ok
+319,Maven Wireless Sweden AB,Maven Wireless,86550f01-93e4-11eb-97db-273ba5953680,84.21,Sweden,Sweden,Stockholms Kommun,Stockholms Kommun,https://mavenwireless.com/,info@mavenwireless.com,51.0,1600000.0,ok
+320,MAVENIR SYSTEMS AB,Mavenir Systems AB.,8a8769f3-f8b6-11ed-9214-3d96876bd85b,83.38,Sweden,Sweden,Solna,Stockholm,,,,,"missing_website, missing_email, missing_year_founded"
+321,MAVENIR SYSTEMS LIMITED,Mavenir Systems Inc.,778051d9-057a-11ec-b41b-d7058b59cf68,77.44,United Kingdom,United Kingdom,Reading,Henley-on-Thames,https://postsell.trade/,sales@ultravioletpools.com,,,missing_year_founded
+322,MAVENIR SYSTEMS UK LIMITED,Mavenir Systems Inc.,778051d9-057a-11ec-b41b-d7058b59cf68,74.35,United Kingdom,United Kingdom,Reading,Henley-on-Thames,https://postsell.trade/,sales@ultravioletpools.com,,,missing_year_founded
+323,Measat Satellite Systems Sdn. Bhd.,Measat Broadcast Systems Sdn Bhd.,8d59b57e-158e-11ee-8e47-1914f721b470,67.99,Malaysia,Malaysia,Sepang,Ipoh,,,,,"missing_website, missing_email, missing_year_founded"
+324,Media Times Limited,Media Times Ltd.,37de0385-e6d6-11ed-8bb1-3d6aecbca671,76.43,Pakistan,Pakistan,Lahore District,Lahore,,,,,"missing_website, missing_email, missing_year_founded"
+325,MEISEL EIENDOM AS,Meisel AS,ca6898fe-0d75-11ec-bc3a-abf705312cc2,71.54,Norway,Norway,Lier,,http://meisel.no/,,,,"missing_email, missing_year_founded"
+326,META PLATFORMS IRELAND LIMITED,Meta Platforms,02ad93d6-02f0-11ed-a2a1-6d51de18d1ca,53.18,Ireland,Russia,,,https://shopgirls.ru/,girls.litvinova@gmail.com,,,"country_mismatch, missing_year_founded"
+327,MICROSOFT IRELAND OPERATIONS LIMITED,Microsoft Ireland Operations,146bd77c-4d69-11ed-b869-0b9c3de59569,92.5,Ireland,Ireland,Dublin,Dublin,https://nowubuy.shop/,cusassist@outlook.com,,,missing_year_founded
+328,MICROSOFT NORGE AS,Microsoft Norway,4c721116-1afb-11ec-8511-032f81df2a60,85.88,Norway,Norway,Oslo,Oslo,http://www.microsoft.no/?opi=79508299&sa=U&ved=0ahUKEwij7OnH_6OMAxVSR2wGHUtXKMIQ61gIFCgQ&usg=AOvVaw28aI1DCJkLpz6OLarH1_XD,,,,"missing_email, missing_year_founded"
+329,MICROSOFT REGIONAL SALES PTE. LTD.,Micro Express Sales Pte Ltd.,161cca55-0fef-11ee-8498-a97a19847758,73.71,Singapore,Singapore,Singapore,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+330,ABC KANTINEAUTOMATER ApS,ABC Spilleautomater,2c53d1f1-6cf9-11ec-a598-5f2181f71be8,74.65,Denmark,Denmark,Høje-Taastrup Municipality,Frederiksberg,https://abcspilleautomater.dk/,mail@abcbillard.dk,,,missing_year_founded
+331,NW GRUPPEN A/S,SJ Gruppen,008645a7-332c-11ec-ba1b-799c0ee08065,70.0,Denmark,Denmark,Hedensted,Faaborg,https://www.sj-container.dk/,post@sj-container.dk,75.0,19908272.0,missing_year_founded
+332,"MIXPANEL, INC.",Mixpanel,cd4156d5-93e4-11eb-91fb-73d498260b10,83.64,United States,United States,San Francisco,San Francisco,https://mixpanel.com/,support@mixpanel.com,450.0,127000000.0,ok
+333,MNEMONIC AS,mnemonic AS.,b86d48c0-b500-11ec-92c5-7f4ee7009bc8,97.39,Norway,Norway,Oslo,Oslo,https://www.mnemonic.io/,contact@mnemonic.io,420.0,50000000.0,ok
+334,MobilePeople ApS,Mobilepeople,a112cce1-0fd4-11ec-bad9-ebcc1813e8d3,81.43,Denmark,Denmark,Herlev Municipality,Herlev,https://mobilepeople.dk/,info@mobilepeople.com,15.0,1200000.0,ok
+335,"MOBILEUM, INC.",Mobileum,5577f372-a5dd-11ef-aeae-313c0af7c979,83.64,United States,United States,Cupertino,Cupertino,https://f6-development-mobileum-site.azurewebsites.net/,carlos.marques@mobileum.com,,,missing_year_founded
+336,MODULEX DANMARK A/S,Modulex,40e47543-93e5-11eb-8ad6-7326edce8d21,72.31,Denmark,Denmark,Billund,Billund,https://modulex.com/,marketing@modulex.com,280.0,5000000.0,ok
+337,Monday. Kum Ltd.,Monday,0c78cf9d-93e5-11eb-86dd-ffbd1b53140e,72.73,Israel,Israel,Tel Aviv-Yafo,Tel Aviv-Yafo,https://monday.com/,juliettebe@monday.com,1854.0,730000000.0,ok
+338,Mustika Teratai Sdn. Bhd.,Mustika Teratai Sdn. Bhd.,b67a2282-e926-11ed-bb20-d929ca7b3418,95.0,Malaysia,Malaysia,Johor Bahru,Johor Bahru,,,,,"missing_website, missing_email, missing_year_founded"
+339,NAGARRO AS,Nagarro AG,227b170c-12dc-11ec-9dca-f567cb1bbc98,59.0,Norway,Germany,Oslo,Munich,https://www.scada-xsight.de/,,,,"missing_email, country_mismatch, missing_year_founded"
+340,NAGARRO ENTERPRISE SERVICES PRIVATE LIMITED,Nagarro Hiring Team,3038e1e5-f85b-11ed-b4e8-e74dfe271a42,50.16,India,India,Punjabi Bagh,North East Delhi,,,,,"missing_website, missing_email, missing_year_founded"
+341,NEC CORPORATION,NEC Corporation of Malaysia,c43c3a03-93e4-11eb-8e19-198fb02d6f96,82.86,Japan,Japan,Tokyo,Tokyo,https://www.nec.com/,recruitment@nec.vn,114714.0,26541574144.0,ok
+342,NEC CORPORATION OF MALAYSIA SDN. BHD.,NEC Corporation Of Malaysia Sdn. Bhd.,24db63d1-8aa4-11ec-9150-8d453a1e7910,95.0,Malaysia,Malaysia,Kuala Lumpur,Kuala Lumpur,,,240.0,26825816.0,"missing_website, missing_email"
+343,NEC Scandinavia Aktiebolag,Scandinavian Packages,017131b8-046b-11ec-8cc5-dd2bf7d5b9b0,73.4,Sweden,Sweden,Stockholms Kommun,Järfälla,https://scandinavianpackages.com/,info@scandinavianpackages.com,3.0,515306.0,missing_year_founded
+344,NEMTILMELD.DK ApS,NemTilmeld,0cf1a919-93e5-11eb-86dd-ffbd1b53140e,84.44,Denmark,Denmark,Nørresundby,Nørresundby,https://www.nemtilmeld.dk/,support@nemtilmeld.dk,10.0,3026908.0,ok
+345,Nepa AB,Nepa Sweden AB.,b1c3fc50-93e4-11eb-a736-0f5b20ecb2f1,78.18,Sweden,Sweden,Stockholm,Stockholm,https://nepa.com/,hello@nepa.com,450.0,10200000.0,ok
+346,NERAS DIREKTE AS,Neras direkte,a19f2484-93e4-11eb-b4a6-27899be4e45d,83.79,Norway,Norway,Drammen,Trondheim,https://nerasdirekte.no/,post@nerasdirekte.no,200.0,19534916.0,ok
+347,Nestor Cables Oy,Nestor Cables,83ad4797-93e4-11eb-97db-273ba5953680,93.79,Finland,Finland,Oulu,Oulu,https://www.nestorcables.fi/,info@nestorcables.fi,125.0,39871916.0,missing_year_founded
+348,NET ONE ASIA PTE. LTD.,Net One Asia,36898c82-93e5-11eb-97db-273ba5953680,82.35,Singapore,Singapore,Singapore,Singapore,https://www.netoneasia.com/,sales.sg@netoneasia.com,140.0,39571800.0,ok
+349,NETIC A/S,Netic,3e619af8-93e5-11eb-8859-29e7c34dee35,82.86,Denmark,Denmark,Aalborg,Aalborg,http://netic.dk/,sales@netic.dk,160.0,6000000.0,ok
+350,NETS DANMARK A/S,Nets group,1821bc30-93e5-11eb-a746-fdabd18be9c6,67.69,Denmark,Denmark,Ballerup,Ballerup,https://nets.eu/,atata@nets.eu,2700.0,914499968.0,ok
+351,New Skies Satellites B.V.,New Skies Satellites B.V.,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,95.0,Netherlands,Netherlands,The Hague,The Hague,,,,,"missing_website, missing_email, missing_year_founded"
+352,NEWS PUBLICATIONS (PRIVATE) LIMITED,Private Helipad Ali Villa,01004641-1dd8-11ef-9268-316fc8e174dd,57.0,Pakistan,Pakistan,Karachi,Karachi,,,,,"missing_website, missing_email, missing_year_founded"
+353,NEXCOM A/S,Nexcom A/S.,4e2b08a3-a477-11ed-8bb2-9375f2c4b1be,97.14,Denmark,Denmark,Copenhagen,Copenhagen,http://www.nexcom.dk/,,,,"missing_email, missing_year_founded"
+354,NOITSO A/S,Experian,0bc250d0-93e5-11eb-b5f6-816dd10ac7b0,53.33,Denmark,Denmark,Copenhagen,Copenhagen,http://www.experian.dk/,dpodenmark@experian.com,70.0,24420772.0,ok
+355,Nokia Innovations Oy,Nokia Foundation,3d547a04-72bb-11ec-b5ce-b3bda5adefa4,80.0,Finland,Finland,Espoo,Espoo,https://nokiafoundation.com/,nokia.foundation@nokia.com,75.0,30000000.0,ok
+356,NOKIA SERVICES AND NETWORKS MALAYSIA SDN. BHD.,Nokia Solutions And Networks Sdn Bhd.,74601f29-1afc-11ec-aa0f-ab42aaaa4d70,69.82,Malaysia,Malaysia,,Kuala Lumpur,,,,,"missing_website, missing_email, missing_year_founded"
+357,NOKIA SOLUTIONS AND NETWORKS NORGE AS,Nokia solutions And Networks Norge AS,5c494e9a-1b04-11ec-b160-7721fd8862eb,85.0,Norway,Norway,Bærum,Oslo,,,,,"missing_website, missing_email, missing_year_founded"
+358,Nokia Solutions and Networks Oy,Nokia Solutions and Networks,d3b679f6-93e4-11eb-b89f-536884b3e7dd,96.95,Finland,Finland,Espoo,Espoo,https://www.nokiasiemensnetworks.com/,,,,"missing_email, missing_year_founded"
+359,"NORDEA BANK ABP, FILIAL I NORGE",Nordea Bank,3cdcf6c0-93e5-11eb-919a-b3f9a5ad205c,71.43,Norway,Norway,Oslo,Oslo,https://www.nordea.no/,billaan@nordea.com,,,ok
+360,NORDIC COMPUTER A/S,Nordic Computer,affc63f0-0394-11ed-9b1b-6d2c9309a5b2,92.94,Denmark,Denmark,Nørresundby,Nørresundby,https://nordiccomputer.com/,sales@nordiccomputer.com,,,ok
+361,NORDIX DATA AS,Nordix Data,8449aea3-93e4-11eb-86dd-ffbd1b53140e,92.8,Norway,Norway,Tromsø,Tromsø,https://www.nordix.no/,utbygging@nordix.no,24.0,16446053.0,missing_year_founded
+362,DMA Research A/S,Busk Demo,02ddf6f4-0953-11ed-8906-6bcfb1398b7a,59.2,Denmark,Denmark,Copenhagen,Copenhagen,https://busk-demo.myshopify.com/,test@buskco.com,15.0,1750343.0,missing_year_founded
+363,NORWEGIAN AIR SHUTTLE AS (PS),Norwegian Air Shuttle,d3abb197-0550-11ec-a49b-69a31ce8af0d,80.4,Norway,Norway,Ullensaker,Bærum,https://www.norwegianair.ru/,post@norwegian.no,,,missing_year_founded
+364,NOVATARIS A/S,Novataris,1da9722c-93e5-11eb-86dd-ffbd1b53140e,89.09,Denmark,Denmark,Copenhagen,Copenhagen,https://www.novataris.com/en/,mn@novataris.com,53.0,10361011.0,ok
+365,Ntt (Thailand) Ltd,NTT DATA Thailand,5212c34c-f8af-11ed-b2ae-8f7420b1f92e,62.43,Thailand,Thailand,Bangkok,Bangkok,,,160.0,4050882.0,"missing_website, missing_email"
+366,NTT ASIA PACIFIC HOLDINGS PTE. LIMITED,Asur Holdings,00d49243-0ec5-11ec-8df7-0b73bdeba2f9,65.88,Singapore,Singapore,Singapore,Singapore,https://asurholdings.com/,info@asurholdings.com,,,missing_year_founded
+367,NTT DATA Business Solutions Korlatolt Felelossegu Tarsasag,NTT DATA Business Solutions Hungary,44dda433-8ac1-11ec-b892-9b33177d601b,73.71,Hungary,Hungary,Budapest,Budapest,,,66.0,3722201.0,"missing_website, missing_email"
+368,ITELLIGENCE A/S,Itelligencedeblog,043f0af0-a7d0-11ed-8169-bfb473e2b988,56.25,Denmark,,,,https://itelligencedeblog.wordpress.com/,support@itelligence.de,,,country_mismatch
+369,Ntt Malaysia Solutions Sdn. Bhd.,Malaysia Microelectronic Solutions,949c9b55-93e4-11eb-8474-3bbe2d07207d,78.18,Malaysia,Malaysia,Petaling Jaya,Petaling Jaya,https://my-ms.com/,sales_info@my-ms.com,75.0,6510184.0,ok
+370,Ntt Msc Sdn. Bhd.,NTT Cloud Communications Malaysia Sdn Bhd.,6db1413a-1d6a-11ef-8ca4-a917ae6b537d,65.51,Malaysia,Malaysia,Petaling Jaya,Petaling Jaya,,,,,"missing_website, missing_email, missing_year_founded"
+371,OCH A/S,Och DK A/S.,a25c4651-1e9d-11ef-8493-1bd9c889e9e7,81.67,Denmark,Denmark,Copenhagen,Copenhagen,,,,,"missing_website, missing_email, missing_year_founded"
+372,OK A.M.B.A.,OK a.m.b.a,d9669f7b-93e4-11eb-91fb-73d498260b10,87.14,Denmark,Denmark,Aarhus Municipality,Copenhagen,https://www.ok.dk/,,1100.0,78489800.0,missing_email
+373,Omd (M) Sdn. Bhd.,OMD World Imaging,a54919b7-93e4-11eb-b4a6-27899be4e45d,54.71,Malaysia,Malaysia,Petaling Jaya,Kuala Lumpur,https://omdworldimaging.com/,enquiry@omdworldimaging.com,,,missing_year_founded
+374,OMD AS,OMD Norway,c7578028-8aa5-11ec-8962-8b4db591a2d2,72.5,Norway,Norway,Oslo,Oslo,,,67.0,23855504.0,"missing_website, missing_email, missing_year_founded"
+375,Media Direction A/S,New Media Direction,ac63db81-72e7-11ec-8200-bfd1296681fb,87.37,Denmark,Denmark,Copenhagen,Copenhagen,http://www.newmediadirection.dk/,rbh@newmediadirection.dk,,,missing_year_founded
+376,OMEGA EXIM LIMITED,Omega Exim Limited,1e65962d-93e5-11eb-b5f6-816dd10ac7b0,90.0,Bangladesh,Bangladesh,Dhaka Metropolitan,Dhaka,https://www.omegaeximltd.com/,salesteam@omegaeximltd.com,130.0,1264433.0,ok
+377,OMNICOM MEDIA GROUP AS,Omnicom Media Group AS,56287c74-2509-11ec-bde8-71cf682bd51e,95.0,Norway,Norway,Oslo,Oslo,,,,,"missing_website, missing_email, missing_year_founded"
+378,OMNICOM MEDIA GROUP ASIA PACIFIC PTE. LTD.,Omnicom Media Group Asia Pacific,c1a538ea-8a9a-11ec-a4f2-5511448670fd,76.89,Singapore,Singapore,Queenstown,,,,100.0,,"missing_website, missing_email"
+379,ON THE SPOT A/S,ON THE SPOT,50a6dd3e-c175-11ec-8c4a-c37e31e9be9e,85.77,Denmark,Denmark,Copenhagen,Copenhagen,,,,,"missing_website, missing_email, missing_year_founded"
+380,ONETRUST TECHNOLOGY LIMITED,Onetrust Security Limited,ba5c207b-18ef-11f0-8a2e-434c54122f4c,76.15,United Kingdom,United Kingdom,London,Harlow,https://index-1y8.pages.dev/,info@index-1y8.pages.dev,,,missing_year_founded
+381,Oracle Corporation (Thailand) Co Ltd,B.M.G CORPORATION CO LTD.,015d07c4-93e5-11eb-9937-4fab995bf8ff,67.38,Thailand,Thailand,Bang Rak District,Bang Rak,https://www.bmgcorporationltd.com/,bmgcorporationltd@gmail.com,75.0,2426858.0,ok
+382,Oracle Corporation Malaysia Sdn. Bhd.,Oracle Corporation Sdn. Bhd.,cd9b9c12-1b00-11ec-aa6a-03cd9b476476,76.69,Malaysia,Malaysia,,Kuala Lumpur,,,,,"missing_website, missing_email, missing_year_founded"
+383,ORACLE DANMARK APS,Oracle DBA DK,e9a40dcd-13d4-11ec-beb1-7f47ddf7321d,82.58,Denmark,Denmark,,,https://oracle-dba.dk/,,1.0,243643.0,"missing_email, missing_year_founded"
+384,ORACLE NORGE AS,Oracle Norge AS,147df165-1b04-11ec-9b02-8dfd4ec6ef01,95.0,Norway,Norway,Bærum,Bærum,,,,,"missing_website, missing_email, missing_year_founded"
+385,ORACLE SVENSKA AB,Oracle Database,48dba329-0db8-11ec-87a6-f975ffb1d692,73.75,Sweden,Sweden,,,https://oracledataba.se/,,6.0,1168839.0,"missing_email, missing_year_founded"
+386,Orbis Oy,Worbis,80ea7e12-93e4-11eb-be3a-7f925cb94351,82.86,Finland,Finland,Vantaa,Vantaa,https://orbis.fi/,etunimi.sukunimi@orbis.fi,31.0,13598198.0,ok
+387,OROGENIC ApS,Orogenic,da01a6ec-93e4-11eb-b4a6-27899be4e45d,88.0,Denmark,Denmark,Vejle,Vejle,https://orogenic.dk/,sales@orogenic.dk,75.0,24358964.0,ok
+388,"ORRICK, HERRINGTON & SUTCLIFFE (UK) LLP",Orrick Herrington & Sutcliffe,14907f20-93e5-11eb-a736-0f5b20ecb2f1,56.18,United Kingdom,United States,London,San Francisco,https://www.orrick.com/,mdelikat@orrick.com,2900.0,1160000000.0,country_mismatch
+389,P1 SECURITY,P1 Security,cd85b2eb-93e4-11eb-b5f6-816dd10ac7b0,100.0,France,France,Paris,Paris,https://www.p1sec.com/,contact@p1sec.io,26.0,7000000.0,ok
+390,"Paco Casa Co.,Ltd.",PACO CASA a,6dd0de70-a7a9-11ed-b250-d1c44dcd1aef,67.24,Thailand,Thailand,Bang Kapi District,Bangkok,https://pacocasa.co.th/,info@pacocasa.co.th,,,missing_year_founded
+391,PAKISTAN INSTITUTE OF NUCLEAR SCIENCE & TECHNOLOGY (PINSTECH),Pakistan Institute of Nuclear Science & Technology,09d8b5fe-ecdb-11ee-96d4-63842c7d9e5f,89.05,Pakistan,Pakistan,Islamabad,Islamabad,,,20.0,88885.0,"missing_website, missing_email"
+392,PARENT AND FAMILY CONSULTING LIMITED,Family Law Consultancy,482573e7-93e5-11eb-8474-3bbe2d07207d,67.24,United Kingdom,United Kingdom,London,Norwich,https://www.flc.uk.com/,enquiries@flc.uk.com,7.0,755010.0,missing_year_founded
+393,PELATRO LIMITED,Pelatro Limited,b398bc50-93e4-11eb-be3a-7f925cb94351,65.0,United Kingdom,India,London,Bengaluru,https://www.pelatro.com/,hello@pelatro.com,260.0,5400000.0,country_mismatch
+394,Varsta Software,Varsta Petri,c309a60b-27bf-11ef-815c-4d862d07c012,65.0,Finland,Finland,Tampere,Helsinki,,,,,"missing_website, missing_email, missing_year_founded"
+395,PING IT A/S,Ping IT,424a94f5-93e5-11eb-8474-3bbe2d07207d,76.67,Denmark,Denmark,Aalborg Municipality,Svenstrup,https://pingit.dk/,info@pingit.dk,25.0,,ok
+396,Playable ApS,Playable,fbe50634-036a-11ec-a72b-432edcbee847,88.0,Denmark,Denmark,Aarhus,Aarhus,https://playable.com/,support@playable.com,79.0,19215376.0,ok
+397,PLESNER Advokatpartnerselskab,Jonas Plesner,2f383a20-93e5-11eb-be5a-4f810ab55f2e,71.43,Denmark,Denmark,Copenhagen,Copenhagen,https://jonasplesner.com/,,1.0,195821.0,"missing_email, missing_year_founded"
+398,PLP INVEST/EJENDOMME A/S,PLP Invest Ejendomme,602ace8c-0c5e-11ec-b66a-97ea7481e556,65.45,Denmark,Denmark,Odense Kommune,Odense,https://plp-ejendomme.dk/,kontor@plp-ejendomme.dk,75.0,21792710.0,missing_year_founded
+399,"PLURALSIGHT, LLC",Pluralsight,16f3bda9-055e-11ec-912d-93da5cd6dce1,88.89,United States,United States,Draper,Draper,http://tordkalvenes.com/,ar@pluralsight.com,,,missing_year_founded
+400,PM ENERGI A/S,Pm energi,b529e3a6-93e4-11eb-8859-29e7c34dee35,89.09,Denmark,Denmark,Brønderslev,Brønderslev,https://pmenergi.dk/,salg@pmenergi.dk,,,ok
+401,Postnord Danmark (B2452),PostNord Danmark Rundt,1de2d199-93e5-11eb-a736-0f5b20ecb2f1,71.74,Denmark,Denmark,Copenhagen,,https://postnorddanmarkrundt.dk/,,25.0,7320492.0,"missing_email, missing_year_founded"
+402,POSTEN BRING AS,Posten Bring,42c3ecf7-1d65-11ee-9df5-e543427f87fa,93.33,Norway,Norway,Oslo,Oslo,https://www.postenbring.no/,personvernombud@posten.no,12600.0,2497012736.0,ok
+403,DATA SCANNING A/S,Scanning,93cb1a81-93e4-11eb-a746-fdabd18be9c6,68.4,Denmark,Denmark,Copenhagen,Albertslund Municipality,http://scanning.dk/,kontakt@scanning.dk,20.0,,missing_year_founded
+404,PostNord Stralfors AB,PostNord Stralfors,d330a82b-93e4-11eb-86dd-ffbd1b53140e,85.38,Sweden,Sweden,Ljungby,Solna,https://www.stralfors.com/,,640.0,218000000.0,missing_email
+405,PRICEWATERHOUSECOOPERS STATSAUTORISERET REVISIONSPARTNERSELSKAB,Pricewaterhousecoopers Statsautoriseret Revisionspartnerselskab,c2d2c772-e602-11ed-aaf1-a9bb6aa25f65,85.0,Denmark,Denmark,Copenhagen,Odense,,,,,"missing_website, missing_email, missing_year_founded"
+406,PRICEWATERHOUSECOOPERS AS,PricewaterhouseCoopers Norway,d4239772-8546-11ec-8f98-f9b40efdfe08,93.33,Norway,Norway,Oslo,Oslo,https://www.pwcmisconduct.com/,andersonepost@gmail.com,30.0,,missing_year_founded
+407,PROPAKISTANI SOLUTIONS (PRIVATE) LIMITED,ProPakistani,d6682c74-93e4-11eb-919a-b3f9a5ad205c,67.69,Pakistan,Pakistan,,,https://propakistani.pk/,hello@propakistani.pk,57.0,3200000.0,ok
+408,DRAKA NORSK KABEL AS,Magnussen Spesialsko,0867ac5b-0574-11ec-b9b6-c767d312e773,61.0,Norway,Norway,Drammen,Drammen,https://www.magnussen-spesialsko.no/no,,25.0,5766728.0,"missing_email, missing_year_founded"
+409,Publicis Groupe Holdings B.V.,Publicis Graphics,66b5cd49-8a9a-11ec-8f9a-d304b9a96e8a,79.13,Netherlands,Netherlands,,,https://www.publicisgraphics.com/,,6.0,1023501.0,missing_email
+410,QCC GLOBAL LIMITED,QCC Global,d9f2b2c1-93e4-11eb-a746-fdabd18be9c6,72.86,United Kingdom,United Kingdom,Wells,London,https://qccglobal.com/,contact@qccglobal.com,19.0,2841631.0,ok
+411,QCC INTERSCAN LTD,QCC Ltd.,c40af0d1-93e4-11eb-b5f6-816dd10ac7b0,63.6,United Kingdom,United Kingdom,Wells,Swanley,https://qccltd.co.uk/,info@qccltd.co.uk,15.0,2278678.0,missing_year_founded
+412,QLIKTECH DENMARK ApS,Qliktech,463be1c1-2500-11ec-abad-a332bf576a25,74.29,Denmark,Denmark,Copenhagen,Copenhagen,http://www.qlikview.com/dk,,,,"missing_email, missing_year_founded"
+413,QlikTech International Markets AB,QLIKTECH INTERNATIONAL MARKETS AB.,6e78222b-9df5-11ef-a80f-179817213e61,84.1,Sweden,Sweden,,Lund,,,,,"missing_website, missing_email, missing_year_founded"
+414,QlikTech Nordic AB,QLIKTECH INTERNATIONAL AB.,55862ac9-9d66-11ef-aecb-ed811e9ee609,65.91,Sweden,Sweden,,Lund,,,10.0,,"missing_website, missing_email, missing_year_founded"
+415,"QUALTRICS, LLC",Qualtrics LLC.,290f11d8-9f7b-11ec-a15f-3d38c1a422d7,80.71,United States,United States,,Provo,,,,1300000000.0,"missing_website, missing_email"
+416,QUESTBACK AS,Questback,e6d9287a-93e4-11eb-be3a-7f925cb94351,91.43,Norway,Norway,Oslo,Oslo,https://www.questback.com/,facebook@questback.com,55.0,12689737.0,ok
+417,Radio Frequency Systems Gesellschaft mit beschrankter Haftung,Radio Frequency Systems GmbH,8da48c93-93e4-11eb-8474-3bbe2d07207d,75.06,Germany,Germany,Hanover,Hanover,https://www.rfsworld.com/,peter.raabe@rfsworld.com,175.0,250000000.0,ok
+418,RAJAH & TANN,Rajah & Tann,d107ada1-93e4-11eb-8859-29e7c34dee35,100.0,Singapore,Singapore,Singapore,Singapore,https://www.rajahtannasia.com/,heng.chhay@rajahtann.com,770.0,150000000.0,ok
+419,RAPID7 INTERNATIONAL LIMITED,Rapid 7 EMEA Internal Moose,1a62837c-2d2f-11ed-bca0-45d3b4f58bc5,67.09,United Kingdom,United Kingdom,London,Camberley,https://www.emea-internalmoose-swag.com/,sales@beechleighpromotions.com,,,missing_year_founded
+420,Red Hat Asia Pacific Pte Ltd,Red Hat Asia Pacific,9973fa6b-8aae-11ec-be09-3b46a3ec669e,85.0,Singapore,Singapore,Singapore,Singapore,,,250.0,71563056.0,"missing_website, missing_email, missing_year_founded"
+421,RED HAT LIMITED,Red PR Limited,1d6c9026-93e5-11eb-a736-0f5b20ecb2f1,75.52,Ireland,Ireland,Cork,Clonmel,https://redpr.ie/,info@redpr.ie,4.0,1295041.0,ok
+422,Red Hat Malaysia Sdn. Bhd.,Red Harvest Malaysia,8d744e31-ca8a-11ec-bce4-ef3debe8cbb7,71.74,Malaysia,Malaysia,,Puchong,https://redharvestmalaysia.com/,submission@redharvestmalaysia.com,,,missing_year_founded
+423,RELOCATION AS,Relocation,13d6cc27-93e5-11eb-8474-3bbe2d07207d,92.17,Norway,Norway,Stavanger,Stavanger,https://relocation.no/,,21.0,1000000.0,missing_email
+424,RETAIL FOCUS A/S,KS RETAIL,0a2d7086-0508-11ec-bab1-43082e0a03df,68.4,Denmark,Denmark,Kongens Lyngby,Birkerød,https://ks-retail.dk/,klaus@ks-retail.com,75.0,26070852.0,ok
+425,REVEALCX LLC,RevealCX Inc.,168fa5a3-20d1-11ee-955b-359ace42ebb8,78.0,United States,United States,New Castle,New York,https://aiincx.com/,,15.0,4163841.0,"missing_email, missing_year_founded"
+426,Rezponz A/S,Rezponz,c8b67a70-c825-11ec-89f7-7594ea00aeb1,86.67,Denmark,Denmark,Aalborg,Aalborg,https://rezponz.dk/,info@rezponz.dk,75.0,4619644.0,missing_year_founded
+427,Rhenus Warehousing Solutions Denmark A/S,Rhenus Warehousing Solutions,11a58013-c50b-11ef-9531-7716dbb12d27,84.41,Denmark,Denmark,Horsens,Horsens,,,,,"missing_website, missing_email, missing_year_founded"
+428,RITTAL A/S,Rittal A/S.,83718e53-1b00-11ec-a945-71766a416f0a,97.14,Denmark,Denmark,Vallensbæk Municipality,Vallensbæk Municipality,http://www.rittal.dk/?opi=79508299&sa=U&ved=0ahUKEwj7qtnvvqOMAxVcTWwGHeNXIHUQ61gIEigP&usg=AOvVaw0S8lQM4PcIscN3aJ4j66ru,,,,"missing_email, missing_year_founded"
+429,RTTD LTD,RTTD,b9b2d1d2-9a09-11ec-9faf-49592d66acb7,45.0,United Kingdom,Germany,London,Osnabrück,https://www.rttd.de/,,,,"missing_email, country_mismatch, missing_year_founded"
+430,BRINTH & HILLERUP A/S,Hillerup Grafisk Design,8bb3945c-12e7-11ec-92c5-236cf59fc383,65.45,Denmark,Denmark,Aarhus,,https://hillerup-design.com/,henrik@hillerup.com,1.0,156240.0,missing_year_founded
+431,SAGEMCOM BROADBAND SAS,Sagemcom Broadband SAS.,5d42a8d2-f9d6-11ec-be61-8fd2b29bbf2d,63.67,France,,Rueil-Malmaison,,http://sherproductions.com/0.1/gui/,,,,"missing_email, country_mismatch, missing_year_founded"
+432,"SAILPOINT TECHNOLOGIES, INC.",SAILPOINT TECHNOLOGIES,391eb2e4-181d-11f0-8284-6dfd2009e8a0,82.8,United States,United States,,Houston,https://www.sailpointt.xyz/,sale@salientpar.xyz,,,missing_year_founded
+433,SALESFORCE UK LIMITED,The Salesforce PM,31fb638d-1105-11ec-a8d6-03ab78afae8c,71.05,United Kingdom,United Kingdom,London,Richmond,https://marseillanvacances.com/,contact@thesalesforcepm.com,1.0,143246.0,ok
+434,SALESFORCE.COM SINGAPORE PTE. LTD.,DancingMind,0808561b-93e5-11eb-a33a-a3dfba582839,56.0,Singapore,Singapore,Singapore,Singapore,http://dancingmind.com/,team@dancingmind.me,75.0,8766198.0,missing_year_founded
+435,Salling Group Forsikring A/S,Salling Group,893b17fe-93e4-11eb-8859-29e7c34dee35,68.05,Denmark,Denmark,Aarhus Municipality,Brabrand,https://www.sallinggroup.com/,press@sallinggroup.com,60000.0,10112692387840.0,ok
+436,Saluran Cekap (M) Sdn. Bhd.,Saluran Cekap M Sdn Bhd.,b1e580a1-583d-11ec-91ee-edc6c109839b,76.76,Malaysia,Malaysia,Ampang Jaya Municipal Council,Ampang Jaya,,,,,"missing_website, missing_email, missing_year_founded"
+437,SAMSUNG ELECTRONICS NORDIC AKTIEBOLAG,Samsung Electronics Nordic AB.,2d6323ad-1afe-11ec-be37-19557aad561c,86.94,Sweden,Sweden,Stockholms Kommun,Stockholms Kommun,,,,,"missing_website, missing_email, missing_year_founded"
+438,SANVARU TECHNOLOGY LIMITED,Sanvaru Technology,425606ac-93e5-11eb-919a-b3f9a5ad205c,89.09,India,India,Sonipat,Sonipat,https://sanvaru.com/,info@sanvaru.com,150.0,1731436.0,missing_year_founded
+439,SAP DANMARK A/S,SAP HANA,066eca52-93e5-11eb-919a-b3f9a5ad205c,66.52,Denmark,Denmark,Copenhagen,,https://saphana.dk/,kimallanj@yahoo.dk,75.0,14661808.0,missing_year_founded
+440,SAS INSTITUTE AS,SAS CTRL AS,0600573b-aeaa-11ef-98d7-e3388663e6b0,65.56,Norway,Norway,Oslo,Bærum,https://sas-ctrl.no/,kjell@sas-ctrl.no,,,missing_year_founded
+441,SAVILLE CONSULTING DANMARK A/S,Saville Consulting Danmark,1930e241-93e5-11eb-b5f6-816dd10ac7b0,95.71,Denmark,Denmark,Rudersdal Municipality,Rudersdal Municipality,https://www.savilleconsulting.dk/,support.dk@savilleconsulting.dk,,,missing_year_founded
+442,SCHNEIDER ELECTRIC DANMARK A/S,Schneider Electric Denmark A/S.,0252d979-93e5-11eb-8859-29e7c34dee35,87.05,Denmark,Denmark,Ballerup,,https://www.studiecd.dk/,,,,"missing_email, missing_year_founded"
+443,Scrive AB,Scrive,ac84e842-93e4-11eb-919a-b3f9a5ad205c,78.0,Sweden,Sweden,,Stockholm,http://www.scrive.com/,cos@scrive.com,210.0,42205780.0,ok
+444,ServiceNow Nederland B.V.,ServiceNow BV.,77842e7a-93e4-11eb-8474-3bbe2d07207d,83.08,Netherlands,Netherlands,Amsterdam,Amsterdam,https://www.servicenow.nl/?opi=79508299&sa=U&ved=0ahUKEwjK0bG5yquMAxW2SGwGHbipE38Q61gIFigS&usg=AOvVaw3HAkGOUFTnqkqTbd1TwYS9,,,,"missing_email, missing_year_founded"
+445,SFDC IRELAND LIMITED,Salesforce,c2d270d1-93e4-11eb-8ad6-7326edce8d21,29.0,Ireland,United States,Dublin,San Francisco,https://www.salesforce.com/,ap_sales@salesforce.com,72682.0,34859999232.0,country_mismatch
+446,"SHANDONG SACRED SUN POWER SOURCES CO., LTD",Shandong Faithwit Power Sources Co. Ltd.,f9694b0b-2abd-11ef-a5ed-2fefabb10411,68.9,China,China,Qufu,Jining,,,,,"missing_website, missing_email, missing_year_founded"
+447,"SHENZHEN CENTER POWER TECH. CO., LTD.",Shenzhen SMACH POWER Technology Co. Ltd.,026af55b-93e5-11eb-8ad6-7326edce8d21,83.64,China,China,Shenzhen,Shenzhen,https://smachpower.com/,antonio@smachpower.com,75.0,4832129.0,missing_year_founded
+448,"Shenzhen Huaptec Co., Ltd",Shenzhen Jiayou Digital Communication Co. Ltd.,017500c2-ef70-11ee-ba61-f912e2f5546b,73.8,China,China,Shenzhen,Shenzhen,https://toposhphone.en.alibaba.com/,toposh_uk@hotmail.com,76.0,11877303.0,ok
+449,"Shenzhen Sdmc Technology Co., Ltd",SDMC Technology,f78384d3-0673-11ec-99bb-f15d4681cfe6,77.5,China,China,Shenzhen,Shenzhen,http://www.sdmcdevice.com/,contact@sdmctech.com,,,ok
+450,"SHENZHEN SKYWORTH DIGITAL TECHNOLOGY CO., LTD.",Shenzhen Skyworth Digital Technology Co. Ltd. Beijing Branch,76c7a864-f8c7-11ed-8937-63610dffe3f8,75.94,China,China,Shenzhen,Haidian District,,,,,"missing_website, missing_email, missing_year_founded"
+451,SHIELDS ENVIRONMENTAL GROUP LTD,Shields Group,45df9fc2-aa7d-11ec-916d-7916524b3224,65.45,United Kingdom,United Kingdom,South Ockendon,Stratford-upon-Avon,https://www.shields-group.co.uk/,assistant@shieldsagency.co.uk,15.0,507704.0,missing_year_founded
+452,"Shuangdeng Group Co., Ltd.",Shuangdeng Group,2f5615e0-0d48-11ec-baff-b3f7938105ab,85.71,China,China,Taizhou,Taizhou,http://www.shuangdeng.com.cn/,marketing@chinashoto.com,,,missing_year_founded
+453,Siae Microelettronica Sdn. Bhd.,SIAE MICROELETTRONICA,1d3ad1c3-93e5-11eb-a746-fdabd18be9c6,53.46,Malaysia,Italy,Petaling Jaya,Cologno Monzese,https://siaemic.com/,joel.carrambas@siaemic.com,1500.0,255000000.0,country_mismatch
+454,Siae-microelettronica - S.p.a.,SIAE MICROELETTRONICA,1d3ad1c3-93e5-11eb-a746-fdabd18be9c6,67.65,Italy,Italy,Cinisello Balsamo,Cologno Monzese,https://siaemic.com/,joel.carrambas@siaemic.com,1500.0,255000000.0,ok
+455,Sievo Oy,Sievo Bucharest Office,a823b0f3-93e4-11eb-aa66-9b8d95e2171b,68.0,Finland,Finland,Helsinki,Helsinki,https://sievo.com/,contact@sievo.com,125.0,30581256.0,missing_year_founded
+456,SIGNICAT AS,Signicat,e08289d1-93e4-11eb-b89f-536884b3e7dd,55.53,Norway,Lithuania,Trondheim,Vilnius,https://www.signicat.com/,info@signicat.com,300.0,27763690.0,country_mismatch
+457,SILLEHOVED ApS,Sillehoved,ab1c21c0-f8b5-11ed-a8b3-7b4d48a6e9d9,85.0,Denmark,Denmark,Odsherred Municipality,Odsherred Municipality,,,,,"missing_website, missing_email, missing_year_founded"
+458,SINGTEL GLOBAL INVESTMENT PTE. LTD.,Balestier Investment Pte. Ltd.,00bf1d13-a0ab-11ed-bb8a-71de4d1e3b55,79.31,Singapore,Singapore,Singapore,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+459,SiPM,SIPM,b4f0991a-2de9-11ed-9aba-99765e777111,65.0,Belgium,Australia,Hasselt,Sydney,http://www.sipm.com.au/,admin@sipm.com.au,75.0,29160844.0,country_mismatch
+460,Skillpower Services (Thailand) Co Ltd,FIRST CLASS LOGISTICS,01ceb558-93e5-11eb-86dd-ffbd1b53140e,58.62,Thailand,Thailand,Yan Nawa District,Yan Nawa District,https://first-classlogistics.com/,pongsak@first-classlogistics.com,75.0,1499469.0,ok
+461,SKYCALL AS,Skycall AS,8a5c3f6b-93e4-11eb-be3a-7f925cb94351,100.0,Norway,Norway,Bærum,Bærum,https://skycallas.no,,35.0,3224044.0,"missing_email, missing_year_founded"
+462,Smart Media4U Technology Pte. Ltd.,Smart city technologies,c3d1aee0-fcc1-11ed-8628-bd8e2d8d8a31,77.89,Singapore,Singapore,Singapore,Singapore,https://smartcitytechnologies.com.sg/,info@smartcitytechnologies.com.sg,75.0,15601518.0,missing_year_founded
+463,SMART TECHNOLOGIES (BD) LIMITED,Smart Technologies BD Ltd. Store Room,16a46b07-93e5-11eb-aa66-9b8d95e2171b,84.12,Bangladesh,Bangladesh,Dhaka,Dhaka,https://smartbd.com/,info@smartbd.com,,,ok
+464,Smartly.io Holding Inc,SF Holding,13bdaad5-0fd2-11ee-bf56-93e389618473,63.75,Finland,Finland,Helsinki,Kerava,https://sf-holding.fi/,,,,"missing_email, missing_year_founded"
+465,SNOW SOFTWARE AB,SNOW SOFTWARE,d7fdc096-93e4-11eb-86dd-ffbd1b53140e,83.79,Sweden,Sweden,,Stockholm,https://snowsoftware.com/,legal@snowsoftware.com,150.0,30530578.0,ok
+466,Snow Software ApS,Snow Software ApS.,5516dd90-aaf0-11ef-baa5-b1d00e182d98,88.29,Denmark,Denmark,Gladsaxe Municipality,,https://snow-software.cc/,help@snow-software.cc,,,missing_year_founded
+467,SNOW AS,Snow Stock,b4e8976a-1184-11ec-8bef-4988316d3539,58.24,Norway,Norway,Bærum,Kongsberg,https://snowstock.no/,post@snowstock.no,75.0,38199664.0,ok
+468,"SoftwareONE Co., Ltd.",SoftwareOne,1c568f21-ef82-11ee-99aa-8b980cad1cb9,46.25,Thailand,,Pathum Wan,,https://softwareone.digital/,,,,"missing_email, country_mismatch, missing_year_founded"
+469,SOFTWAREONE NORWAY AS,SoftwareONE Norge AS,ca236fc9-1b01-11ec-893d-41807d3de292,87.68,Norway,Norway,Oslo,Oslo,,,,,"missing_website, missing_email, missing_year_founded"
+470,SOFTWAREONE PTE. LTD.,SoftwareOne,1c568f21-ef82-11ee-99aa-8b980cad1cb9,46.25,Singapore,,Singapore,,https://softwareone.digital/,,,,"missing_email, country_mismatch, missing_year_founded"
+471,SONY MOBILE COMMUNICATIONS AB,Mobile Communications Thesaurus,29efa902-051f-11ec-9d56-b3ef14229486,76.0,Sweden,Sweden,Lund,Stockholm,https://mcab.se/,info@mcab.se,,,ok
+472,South Pole Sweden AB,South Sweden BBQ,47b09212-93e5-11eb-b89f-536884b3e7dd,76.67,Sweden,Sweden,Stockholm,Partille,https://ssbbq.se/,bokning@ssbbq.se,8.0,493383.0,missing_year_founded
+473,Southern Cable Sdn. Bhd.,Southern Nine Sdn. Bhd.,04ec320a-18fe-11f0-b4d0-096f959c77d2,81.06,Malaysia,Malaysia,Kuala Ketil,Sungai Petani,https://southernnine.com/,support@southernnine.com,,,missing_year_founded
+474,Splunk Inc.,Splunk,dc3d014e-25aa-11ef-84bb-3b7d91468c81,72.35,United States,United States,,State College,https://www.support.splunk.psu.edu/,,,,"missing_email, missing_year_founded"
+475,SPORTS STAR INTERNATIONAL (PRIVATE) LTD.,Sports Star International Pvt Ltd.,f7e5eff0-58e5-11ed-9cc3-5bfe46360075,73.65,Pakistan,Pakistan,,Lahore,,,,,"missing_website, missing_email, missing_year_founded"
+476,SQUARETRADE EUROPE LIMITED,SquareTrade,22b4fac0-5b0a-11ed-8fd6-0b23d22de7da,40.68,Malta,,Birkirkara,,https://mercuryinsurancewarranty.com/,,,,"missing_email, country_mismatch, missing_year_founded"
+477,SQUARETRADE LIMITED,SquareTrade,2c43d957-93e5-11eb-8474-3bbe2d07207d,84.0,United Kingdom,United Kingdom,London,London,http://squaretrade.uk/,,75.0,7911480.0,"missing_email, missing_year_founded"
+478,Starcom FZ-LLC,Starcominfo,715a75a2-08e9-11ee-ae0e-4f53274d777f,63.6,United Arab Emirates,United Arab Emirates,,Dubai,https://starcominfo.com/,zubair.starcom@gmail.com,30.0,5458741.0,missing_year_founded
+479,STARSEED TECHNOLOGIES (S) PTE. LTD.,Starseed Technologies S Pte. Ltd.,0f34c0d7-197b-11ef-bb50-ff355101f6ca,79.71,Singapore,Singapore,Geylang,,,,,,"missing_website, missing_email, missing_year_founded"
+480,Stena Recycling Holding AB,Stena Recycling AB - Lidköping,38fea658-f90b-11ee-a0bc-b93cf9a41d3a,76.43,Sweden,Sweden,Gothenburg,Lidköping,,,,,"missing_website, missing_email, missing_year_founded"
+481,STORM COMMUNICATIONS AS,Storm Communications,778a3f93-f35c-11ee-a2cf-e34c0e809adb,95.81,Norway,Norway,Oslo,Oslo,http://www.stormhuset.no/,mkj@stormcom.no,75.0,25250424.0,missing_year_founded
+482,SUBEX (ASIA PACIFIC) PTE. LIMITED,Subex,01a693ee-93e5-11eb-91fb-73d498260b10,30.79,Singapore,Dominican Republic,,,https://www.subexrd.com/,admin@subexrd.com,,,"country_mismatch, missing_year_founded"
+483,SUBEX (UK) LIMITED,SUBEX,1282add6-93e5-11eb-a736-0f5b20ecb2f1,31.09,United Kingdom,Egypt,Harrow,Hurghada,https://subex.org/,diving@subex.org,75.0,1775361.0,country_mismatch
+484,Sutera Utama Sdn. Bhd.,Sutera Utama Sdn. Bhd.,43f5c0a1-a7e2-11ed-9443-77059af26349,90.0,Malaysia,Malaysia,Johor Bahru,Plentong,https://sutera.my/,,30.0,,"missing_email, missing_year_founded"
+485,Swichtec Power Systems Sdn. Bhd.,Swichtec Power Systems,324b1f73-93e5-11eb-8859-29e7c34dee35,88.89,Malaysia,Malaysia,Shah Alam,Shah Alam,https://swichtec.com.my/,enquiries@swichtec.com.my,75.0,4592018.0,ok
+486,Syarikat Takaful Malaysia Keluarga Berhad,TAKAFUL MALAYSIA,eb329782-93e4-11eb-a736-0f5b20ecb2f1,73.68,Malaysia,Malaysia,Kuala Lumpur,Kuala Lumpur,https://www.takaful-malaysia.com.my/,employee.screening@takaful-malaysia.com.my,780.0,853567744.0,ok
+487,"SYNIVERSE COMMUNICATIONS, LLC",Syniverse,84e29359-93e4-11eb-a33a-a3dfba582839,68.42,United States,United States,Tampa,Tampa,https://www.syniverse.com/,legalcorporate@syniverse.com,1400.0,1019150784.0,ok
+488,Systems Limited,Universal Network System Limited,39ffa068-93e5-11eb-919a-b3f9a5ad205c,68.3,Pakistan,Pakistan,Jindra Kalan,Saddar Town,https://www.blue-ex.com/,ask@blue-ex.com,260.0,984471.0,ok
+489,Systemteknik af 2021 A/S,System Teknik,deb26554-12fa-11ec-bc86-59f7750beb34,68.92,Denmark,Denmark,Nørresundby,Rudersdal Municipality,https://system-teknik.dk/,mp@system-teknik.dk,15.0,2909912.0,missing_year_founded
+490,T/A POL AS,POL,389f973e-01ee-11ec-8b61-35bce24791d3,67.69,Norway,Norway,Oslo,Oslo,https://pol.no/,post@pol.no,300.0,101001696.0,ok
+491,TALEND SINGAPORE PTE. LTD.,Reed Tan Digital,00cfe2f8-93e5-11eb-b997-8dd98d09cf25,68.57,Singapore,Singapore,Singapore,Singapore,https://reedtan.com/,marketing@reedtan.com,1.0,261365.0,ok
+492,Talend Sweden AB,Talend sa.,4ccb39c7-c026-11ec-9880-5b9f9a6d0d58,66.92,Sweden,Sweden,Stockholm,Gothenburg,https://investerarpengarskpj.web.app/,,15.0,,"missing_email, missing_year_founded"
+493,Talentech ApS,Talentech Denmark,14426861-22ee-11ec-9e3b-1143ee662a91,84.0,Denmark,Denmark,Copenhagen,Copenhagen,https://www.talentech.dk/,,26.0,5776510.0,missing_email
+494,TAMPNET AS,Tampnet AS,ef6e1e50-93e4-11eb-8ad6-7326edce8d21,100.0,Norway,Norway,Stavanger,Stavanger,http://www.tampnet.com/,sales@tampnet.com,180.0,37000000.0,ok
+495,Tata Communications International Pte. Ltd.,Tata Steel International S Pte. Ltd.,63cd6ee2-2503-11ec-ada5-21fec46afdaa,77.53,Singapore,Singapore,Singapore,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+496,TATA COMMUNICATIONS INTERNATIONAL PTE. LTD.,TATA COMMUNICATIONS DIGO,2b145a02-93e5-11eb-8859-29e7c34dee35,69.4,Singapore,Singapore,Singapore,,https://www.tatacommunications-ts.com/,digo@tatacommunications.com,4700.0,126300000.0,ok
+497,"TATA CONSULTANCY SERVICES LIMITED, FILIAL AF TATA CONSULTANCY SERVICES LTD.,INDIEN",TATA SKO,f875b097-bf89-11ec-a505-d94087b31ae6,49.33,Denmark,Denmark,Copenhagen,Copenhagen,https://www.tatasko.dk/,,5.0,,"missing_email, missing_year_founded"
+498,TATA CONSULTANCY SERVICES SVERIGE AB,Maryem Nasri Consultancy,015a6fb7-93e5-11eb-91fb-73d498260b10,76.0,Sweden,Sweden,,,https://retaildetailconsulting.com/,,1.0,174922.0,missing_email
+499,TCT MOBILE INTERNATIONAL LTD.,Mobile Tech International HK Co Ltd.,9aa73fcc-2bbb-11ef-90fc-49e996ebd993,76.69,Hong Kong,Hong Kong,Hong Kong Island,Kwai Chung,,,,,"missing_website, missing_email, missing_year_founded"
+500,TD SYNNEX Denmark ApS,Midtjysk Hundecenter,00e95dd3-03c4-11ec-866d-75f684b48576,57.56,Denmark,Denmark,Viborg Municipality,Viborg Municipality,https://midtjysk-hundecenter.dk/,mail@midtjysk-hundecenter.dk,15.0,766929.0,missing_year_founded
+501,TEALIUM INC.,TEALIUM,e99d2a75-93e4-11eb-9937-4fab995bf8ff,84.21,United States,United States,San Diego,San Diego,https://tealium.com/,dpo@tealium.com,700.0,100000000.0,ok
+502,"TEAM INTERNATIONAL SERVICES, INC.",TEAM International,2d63c842-93e5-11eb-b997-8dd98d09cf25,82.35,United States,United States,Lake Mary,Lake Mary,https://www.teaminternational.com/,sales@teaminternational.com,870.0,320000000.0,ok
+503,TECH MAHINDRA (THAILAND) COMPANY LIMITED,Pure Tech Thailand Company Limited,3a4aebf1-a7f8-11ed-9820-c3fbe67bcd68,75.68,Thailand,Thailand,,,https://klean-espthailand.com/,kleanland.thai@gmail.com,75.0,1953880.0,missing_year_founded
+504,Tech Mahindra Ict Services (Malaysia) Sdn. Bhd.,Aital Homenursing Care Services,00beab84-918f-11ed-8109-cd2bc6a86027,70.77,Malaysia,Malaysia,Cyberjaya,Cyberjaya,https://aitalhomenursingcareservices.com.my/,admin@aitalhomenursingcareservices.com.my,75.0,1026601.0,ok
+505,Tecnotree Oyj,Tecnotree,bd9ea750-93e4-11eb-be5a-4f810ab55f2e,89.09,Finland,Finland,Espoo,Espoo,https://www.tecnotree.com/,marketing@tecnotree.com,1400.0,56637108.0,ok
+506,TELECOM EQUIPMENT PTE LTD,Telecom Equipment Pte Ltd.,04a78940-19a9-11ee-aec0-a1af3c434505,93.82,Singapore,Singapore,Singapore,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+507,Telekom Malaysia Berhad,Telekom Malaysia,19c2e92e-93e5-11eb-9937-4fab995bf8ff,79.23,Malaysia,Malaysia,Kuala Lumpur,Cyberjaya,https://tm.com.my/,investor@tm.com.my,24000.0,2683290112.0,ok
+508,TELENOR SHARED SERVICES DENMARK A/S,Company Shared Services International,ae58acc6-a69d-11ef-9c3d-63bcbb690cc4,65.0,Denmark,Denmark,Aalborg,Copenhagen,https://cssi.dk/,kundeservice@cssi.dk,125.0,30404076.0,ok
+509,TELENOR ASA,Telenor,18792b00-93e5-11eb-8859-29e7c34dee35,86.67,Norway,Norway,Bærum,Bærum,http://www.telenor.com/,david.fidjeland@telenor.com,11000.0,8238095360.0,ok
+510,TELENOR BROADCAST HOLDING AS,Telenor Satellite,342de933-93e5-11eb-9937-4fab995bf8ff,74.67,Norway,Norway,Bærum,Bærum,https://www.spacenorway.com/,infosatellite@telenor.com,1500.0,1594596480.0,ok
+511,Telenor Connexion AB,Telenor Connexion,f0d7e780-93e4-11eb-8e19-198fb02d6f96,85.14,Sweden,Sweden,Solna,,https://www.telenorconnexion.com/,,,13600000.0,missing_email
+512,TELENOR D.O.O. BEOGRAD,Yettel,9ca9c0c6-aa7c-11ec-a638-89115c56d9b3,57.14,Serbia,Serbia,Belgrade,Belgrade,https://www.yettel.rs/,,1848.0,545239424.0,missing_email
+513,TELENOR DANMARK HOLDING A/S,Danpor Agri Holding A/S.,0084059f-f3d1-11ed-a363-5120b9b48004,62.65,Denmark,Denmark,Copenhagen,Nakskov,,,,,"missing_website, missing_email, missing_year_founded"
+514,TELENOR DIGITAL AS,Telenor Objects AS,244907b2-1698-11ee-9aad-f7c11d5080a1,75.0,Norway,Norway,Bærum,Bærum,,,,,"missing_website, missing_email, missing_year_founded"
+515,TELENOR FIBER AS,Telenor Mobil AS avd Rørvik,101cc600-235b-11ec-a95a-53153c834fe2,71.28,Norway,Norway,Bærum,Bærum,,,,,"missing_website, missing_email, missing_year_founded"
+516,TELENOR GLOBAL SHARED SERVICES PAKISTAN (PRIVATE) LIMITED,Al Malik Security Services Pakistan Private Limited,87c163ba-2a09-11ef-8fab-1db95a51f585,62.22,Pakistan,Pakistan,Islamabad,Multan,https://www.amssppl.wixsite.com/,amssppl@gmail.com,,,missing_year_founded
+517,TELENOR GO PTE. LTD.,Telenor Asia,f8dd5135-0c43-11ee-b94f-ebf23e82ffaf,70.0,Singapore,Singapore,Singapore,Singapore,https://telenorasia.com/,tna_dpo@telenor.com,,,ok
+518,TELENOR LDI COMMUNICATIONS (PVT.) LIMITED,Telenor Franchise Brainz Communication,00d19d70-5e13-11ef-904a-b5358eb47b36,62.97,Pakistan,Pakistan,Islamabad,,,,,,"missing_website, missing_email, missing_year_founded"
+519,TELENOR GLOBAL SERVICES AS,Telenor Cloud services AS,4df951dc-2cfa-11ef-96db-335e17d831d9,86.76,Norway,Norway,Bærum,Bærum,,,,,"missing_website, missing_email, missing_year_founded"
+520,Telenor Magyarorszag Zrt.,Yettel Hungary,b00e334a-bfb1-11ec-b414-e9c9ba937bb9,61.54,Hungary,Hungary,Törökbálint,Törökbálint,https://www.yettel.hu/,cloudsupport@yettel.hu,1060.0,221659152.0,ok
+521,TELENOR NORGE AS,Telenor Norges,f78e0b4a-93e4-11eb-9937-4fab995bf8ff,92.0,Norway,Norway,Bærum,Bærum,http://www.telenor.no/,telenor.klager@telenor.no,20.0,22572068.0,ok
+522,TELENOR PAKISTAN,Telenor Pakistan,b69c114f-93e4-11eb-b4a6-27899be4e45d,100.0,Pakistan,Pakistan,Islamabad,Islamabad,http://www.telenor.com.pk/,privacy@telenor.com.pk,22000.0,451406688.0,ok
+523,TELENOR PROCUREMENT COMPANY PTE. LTD.,Telenor Inpli Singapore,3dffc0c5-f693-11ed-9ca5-8f4c99fa5cf8,65.0,Singapore,Singapore,Singapore,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+524,TELENOR REAL ESTATE AS,Telenor Expo,1ac82415-93e5-11eb-be3a-7f925cb94351,71.76,Norway,Norway,Bærum,Bærum,https://www.telenorexpo.no/,,,,"missing_email, missing_year_founded"
+525,Telenor Shared Services AS,Telenor Cloud services AS,4df951dc-2cfa-11ef-96db-335e17d831d9,79.71,Norway,Norway,Bærum,Bærum,,,,,"missing_website, missing_email, missing_year_founded"
+526,TELENOR SOFTWARE LAB AS,Telenor Software Lab AS TSL,dbe2248f-aba6-11ef-b6d6-0b609ebb973a,95.2,Norway,Norway,Bærum,Bærum,https://minepapir.no/,privacyoffice-telenornorge@telenor.com,,,missing_year_founded
+527,TELENOR SVALBARD AS,GO-S VALBARD,a8f4cc61-0ab0-11ec-b811-6124f8ab6766,74.84,Norway,Norway,,,https://www.go-svalbard.no/,sasve@longyearbyen.net,1.0,231748.0,missing_year_founded
+528,TELETEAMET A/S,Teleteamet A/S.,a84b4151-0da2-11ec-9b20-fda7bd57cf2c,87.93,Denmark,Denmark,Odense Kommune,Odense,http://teleteamet.dk/,mss@teleteamet.dk,75.0,47068976.0,missing_year_founded
+529,Teliti Teknik Sdn Bhd,TELITI TEKNIK,bdf9ef01-b77a-11ed-be56-5737ab22b0ef,75.88,Malaysia,Malaysia,Shah Alam,Sungai Buloh,http://www.telititeknik.com.my/,ttsb@telititeknik.com.my,,,ok
+530,Textilia Group A/S,Textilia Group A S Lyngby,ff3f88f5-f841-11ed-8395-a741478d275d,69.65,Denmark,Denmark,Egedal Municipality,Kongens Lyngby,,,,,"missing_website, missing_email, missing_year_founded"
+531,Thailife Insurance Public Company Limited,Thai Life Insurance,22d880ae-93e5-11eb-8e19-198fb02d6f96,76.0,Thailand,Thailand,Bangkok,Bangkok,http://www.thailife.com/,investor.relations@thailife.com,45000.0,2000000000.0,ok
+532,SETEC CARD A/S,SETEC,01c5112c-003d-11ec-898f-a3255f04c287,36.58,Denmark,Austria,Ballerup,Kindberg,http://www.setec-gmbh.at/,s.sattler@setec-gmbh.at,75.0,,"country_mismatch, missing_year_founded"
+533,GEMALTO NORGE AS,Gemalto Norge AS,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,95.0,Norway,Norway,Oslo,Oslo,,,,,"missing_website, missing_email, missing_year_founded"
+534,Thales DIS Sweden AB,DIS of Sweden,2cb447a0-1769-11ec-9256-c99cfa2847dc,66.36,Sweden,Sweden,Stockholm,Gothenburg,https://www.dis-sweden.org/,charlotte.borjesson@telia.com,6.0,,missing_year_founded
+535,TIETOEVRY NORWAY AS,TietoEVRY,6f4c5255-03a6-11ec-9097-bf5acc5341db,68.57,Norway,Norway,Bærum,Mo I Rana,https://evrycard.no/,frode.larsen@tietoevry.com,150.0,96193576.0,missing_year_founded
+536,TIETOEVRY TECH SERVICES NORWAY AS,Negotia,8dfb5f3d-93e4-11eb-a33a-a3dfba582839,52.0,Norway,Norway,Bærum,Bærum,https://negotiaevry.org/,negotia@tietoevry.com,,,missing_year_founded
+537,TINEX GROUP AS,TINEX Group,e8cae664-93e4-11eb-b89f-536884b3e7dd,92.8,Norway,Norway,Oslo,Oslo,https://www.tinexgroup.no/,mail@tinexgroup.no,6.0,5715034.0,ok
+538,Tm Technology Services Sdn. Bhd.,TM Management Services,2480f9f2-f612-11ed-ba6b-2fa5b25b3bfc,68.89,Malaysia,Malaysia,Kuala Lumpur,Kuala Lumpur,https://tmmgtservices.com.my/,emilykok@tmmgtservices.com.my,1.0,15191.0,missing_year_founded
+539,Tongyu Communication Inc.,Tongyu Communication,2b94d4a1-93e5-11eb-b89f-536884b3e7dd,83.33,China,China,Guzhen,Guandong,https://tongyucom.com/,edwin@tycc.cn,,,ok
+540,Tp Link International Ltd.,LINK Logistics International Network,fedb5170-bfb3-11ec-aa0f-71bbddca30bf,79.52,Hong Kong,Hong Kong,Kowloon,Kowloon,,,1.0,,"missing_website, missing_email"
+541,TPM DATA ApS,Oticon A/S.,0176f865-93e5-11eb-91fb-73d498260b10,60.87,Denmark,Denmark,Smørumnedre,Smørumnedre,https://www.oticon.nl/,brugerservice@oticon.dk,,,missing_year_founded
+542,"Tradium, Erhvervsskole og - gymnasier, Randers S/I",Tradium Mariagervej Randers Kom,017806f1-2aa1-11ef-9160-93062718f344,70.56,Denmark,Denmark,Randers,Randers,,,,,"missing_website, missing_email, missing_year_founded"
+543,TRANSMODE SYSTEMS AB,TRANSMODE SYSTEMS AB.,7422ed1e-5e29-11ef-90a8-8b966e020cd1,93.54,Sweden,Sweden,Stockholm,Stockholm,,,1.0,,"missing_website, missing_email, missing_year_founded"
+544,TREND MICRO (SINGAPORE) PTE. LTD.,Touch of Trend Singapore,7f4688c8-ad32-11ef-8c9e-31c2725f601c,77.89,Singapore,Singapore,Singapore,Singapore,https://totbridal.sg/,hello@totbridal.sg,,,missing_year_founded
+545,Trifork A/S,Trifork Academy,0bbb730a-93e5-11eb-be3a-7f925cb94351,81.54,Denmark,Denmark,Aarhus,Aarhus,https://triforkacademy.dk/,training@trifork.com,75.0,13319402.0,missing_year_founded
+546,True Move H Universal Communication Co Ltd,True Move H Universal Communication Company Limited,4c667ccb-13c6-11ec-9836-ef7b0600cc53,80.32,Thailand,Thailand,Bangkok,Khon Kaen,https://www.truemove-h.com/,,,,"missing_email, missing_year_founded"
+547,TRUSTZONE A/S,TRUSTZONE,8b944a32-93e4-11eb-86dd-ffbd1b53140e,89.09,Denmark,Denmark,Copenhagen,Copenhagen,https://trustzone.com/,support@trustzone.com,25.0,5614217.0,ok
+548,TT DOTCOM SDN. BHD.,TT DotCom Sdn. Bhd - Johor Operation Engineering Office,8f3823fb-e950-11ed-ae60-5967c8ecc505,54.19,Malaysia,Malaysia,Shah Alam,Tebrau,,,,,"missing_website, missing_email, missing_year_founded"
+549,TT-NETVAERKET P/S,TT Network,f1ca36c3-93e4-11eb-9937-4fab995bf8ff,66.67,Denmark,Denmark,Copenhagen,Copenhagen,https://www.tt-network.dk/,info@tt-network.dk,,,ok
+550,TUTELA TECHNOLOGIES LTD.,Tutela,c5b76852-93e4-11eb-be3a-7f925cb94351,64.0,Canada,Canada,Victoria,Victoria,https://www.tutela.com/,sales@tutela.com,3.0,12000000.0,ok
+551,TXO SYSTEMS LTD,TXO Systems Ltd.,7c32e6cb-5bf1-11ef-9278-432c00859ce8,93.06,United Kingdom,United Kingdom,Chepstow,Chepstow,,,,37300000.0,"missing_website, missing_email"
+552,UIPATH SRL,UiPath Immersion Lab,0cec0a65-918f-11ed-8685-0d799fbc3c64,76.0,Romania,Romania,Bucharest,Bucharest,https://uipath.ro/,,,,"missing_email, missing_year_founded"
+553,Unit Trust Of Pakistan,Virtual University of Pakistan VU,002a4e16-508e-11ef-9563-0f2690a21857,64.27,Pakistan,Pakistan,Saddar Town,Lahore,,,96.0,393716.0,"missing_website, missing_email"
+554,"UNITED INFORMATION HIGHWAY CO., LTD.",Highway Co. Ltd.,b156a84f-0568-11ef-8715-4dd5c9d44ad8,61.92,Thailand,Thailand,Chatuchak District,Phatthana Nikhom,,,,,"missing_website, missing_email, missing_year_founded"
+555,Ur Consult ApS,Roested,d21a0337-03a5-11ec-a873-d574c694d6a6,57.14,Denmark,Denmark,Kongens Lyngby,Kongens Lyngby,https://roested.dk/,info@roested.dk,1.0,211696.0,missing_year_founded
+556,UTEL AS,Utel AS,e5d58700-d139-11ec-90aa-d5cfd1428197,100.0,Norway,Norway,Grimstad,Grimstad,https://utel.tech/,fg@utel.tech,27.0,5100000.0,ok
+557,VANTIVA TECHNOLOGIES,Vantiva,0330dd63-93e5-11eb-a746-fdabd18be9c6,61.11,France,France,Paris,Issy-les-Moulineaux,http://www.vantiva.com/,security@vantiva.com,16676.0,3110750208.0,ok
+558,Vertiv (Malaysia) Sdn. Bhd.,VERTIV,2c4e0c60-b8a1-11eb-8bd4-f9c9a1d88595,26.82,Malaysia,United States,Petaling Jaya,Westerville,https://www.vertiv.cn/,salescloudsupport@vertivco.com,,,"country_mismatch, missing_year_founded"
+559,"VERTIV (THAILAND) CO., LTD.",Vertiv,ccf9e8fb-6dae-11ec-a0a5-5d41d5e823b0,26.82,Thailand,Japan,Chatuchak,Tokyo,https://www.vertiv-jp.com/,tec-np.dcim.jp@dksh.com,,,"country_mismatch, missing_year_founded"
+560,Vertiv Energy Private Limited,Vertiv Energy Private Limited,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,85.0,India,India,Thane,Pune,,,,,"missing_website, missing_email, missing_year_founded"
+561,VERTIV (SINGAPORE) PTE. LTD.,2nd phase design,f7c59602-93e4-11eb-b5f6-816dd10ac7b0,46.36,Singapore,Singapore,Singapore,,https://www.2ndphasedesign.com/,info@2ndphasedesign.com,35.0,10906026.0,ok
+562,Viaplay Group AB (publ),Viaplay Group,a8089090-d8d5-11ec-a2a7-a103c2828e6a,83.33,Sweden,Sweden,Stockholm,Stockholm,https://www.viaplaygroup.com/en,,1708.0,1151112445952.0,missing_email
+563,VIRTUAL WORLD (PVT.) LIMITED,TRACKING WORLD,d17f4eab-93e4-11eb-90d2-e3355a7e800b,55.71,Pakistan,Pakistan,,Lahore,https://trackingworld.com.pk/,,180.0,2000000.0,missing_email
+564,MV-NORDIC A/S,Mv-nordic Danmark,387071d4-9f86-11ec-bb62-ef8222f30268,69.0,Denmark,Denmark,Odense Kommune,Odense,,,,365000.0,"missing_website, missing_email"
+565,VOXOGO ApS,Voxogo Aps. Store Kongensgade,ed5cca83-93e4-11eb-8859-29e7c34dee35,70.77,Denmark,Denmark,Copenhagen,Copenhagen,https://voxogo.com/,info@voxogo.com,75.0,18474564.0,missing_year_founded
+566,WATCHDATA TECHNOLOGIES PTE LTD,Watchdata,f3e108dc-93e4-11eb-8e19-198fb02d6f96,67.69,Singapore,Singapore,Singapore,Singapore,http://ww12.xunlehongbei.com/?usid=15&utid=26722604154,marketing@shoplytermylf.com,200.0,27000000.0,ok
+567,WATEEN SOLUTIONS (PVT.) LIMITED,Multi-Task Solution,01a825b8-6cda-11ec-9b86-b57766cd3ae5,68.8,Pakistan,Pakistan,Lahore,Lahore,https://multitasksols.com/,info@multitasksols.com,6.0,26671.0,ok
+568,Waystream AB,Waystream,c179226e-93e4-11eb-9937-4fab995bf8ff,81.43,Sweden,Sweden,Stockholms Kommun,Stockholm,https://waystream.com/en,info@waystream.com,20.0,7125512.0,ok
+569,WIDEROE AS,Wideroe Technical,12bfb6c1-93e5-11eb-b89f-536884b3e7dd,80.0,Norway,Norway,Bodø,Bodø,https://wideroetechnical.com/,contact@wideroetechnical.com,110.0,,ok
+570,Wilke Markedsanalyse A/S,Wilke A S Aarhus,01eb8c25-93e5-11eb-b4a6-27899be4e45d,66.0,Denmark,Denmark,Odense Kommune,Odense,https://wilke.dk/,hej@wilke.dk,130.0,54200000.0,ok
+571,WIPRO LIMITED,Wipro Limited,1b8ce135-a6e0-11ef-beb6-99749488fa95,90.0,India,India,Doddakannelli,Pune,https://wiprolimited.in/,info@wiprolimited.in,,,missing_year_founded
+572,WIPRO LIMITED (SINGAPORE BRANCH),Wipro Limited Singapore Branch,f5b10fd3-0321-11ee-b9c7-d945c48165b4,73.71,Singapore,Singapore,Singapore,Singapore,,,,,"missing_website, missing_email, missing_year_founded"
+573,Wire & Wireless Co Ltd,Wire & Wireless,727be343-ba6f-11eb-a6d9-7794e56e1994,78.65,Thailand,Thailand,Huai,Suan Luang,https://www.ww.co.th/,contact@ww.co.th,,,ok
+574,WOODLANDS TRANSPORT SOLUTIONS PTE. LTD.,Woodlands Transport Service Pte Ltd.,3292ddfa-49a2-11ef-b038-5f34ee61aa4b,84.6,Singapore,Singapore,Singapore,Singapore,,,7.0,,"missing_website, missing_email"
+575,WORKDAY LIMITED,Workday UK Limited,2dbfa999-1189-11ec-a0a7-51650acd388a,84.55,Ireland,Ireland,Dublin,Dublin 7,http://shungeer.com/,,,,"missing_email, missing_year_founded"
+576,WTW REAL ESTATE SDN. BHD.,WTW Real Estate Sdn. Bhd.,b80b9753-17de-11ee-b9eb-93f77cdb42f2,85.0,Malaysia,Malaysia,Kuala Lumpur,Johor Bahru,,,,,"missing_website, missing_email, missing_year_founded"
+577,XIT SOFTWARE ApS,xIT Software,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,91.43,Denmark,Denmark,Gentofte Municipality,Gentofte Municipality,http://xit-software.dk/,info@xit.dk,,,ok
+578,Yangtze Optical Fibre And Cable Joint Stock Ltd.,Yangtze Optical Fibre and Cable Joint Stock,c9fbf78c-8b5f-11ec-9e94-331f9459c7f5,96.7,China,China,Wuhan,Wuhan,https://www.yofc.com.cn/,,,,missing_email
+579,YINDA TECHNOLOGY (THAILAND) COMPANY LIMITED,Kingtent Technology,0120bd90-f538-11ed-a6df-e35db83fc88a,59.03,Thailand,Thailand,,Bang Phli Yai Subdistrict,https://kingtent.co.th/,info@kingtent.co.th,172.0,6550415.0,ok
+580,ZALARIS HR SERVICES DANMARK A/S,Zalaris HR Services Danmark A/S.,1965cb44-f87f-11ed-ab94-9d382b3b5926,89.05,Denmark,Denmark,Høje-Taastrup Municipality,Taastrup,https://zalaris.dk/?opi=79508299&sa=U&ved=0ahUKEwjjxIfdn6yMAxWrF1kFHb3-GMgQ61gIFCgQ&usg=AOvVaw0LBcrYRO_Oh_bzGQjyNvqE,,,,"missing_email, missing_year_founded"
+581,Zalaris HR Services Finland Oy,Music Aggregation Services Finland Oy.,2232e03f-ff78-11eb-a358-8dbe3201bc48,65.29,Finland,Finland,,Tampere,https://masf.fi/,,3.0,1344638.0,missing_email
+582,ZALARIS HR SERVICES NORWAY AS,Aviation Fuelling Services Norway,09a452d3-93e5-11eb-be3a-7f925cb94351,64.84,Norway,Norway,Lødingen,Oslo,https://www.afsn.no/,otc@afsn.no,75.0,1173675008.0,ok
+583,Zalaris HR Services Sverige AB,Zalaris HR Services Sverige AB.,12e5a0a4-f5c3-11ed-88cc-c9466c597c9c,89.02,Sweden,Sweden,Solna,Karlskrona,https://zalaris.se/?opi=79508299&sa=U&ved=0ahUKEwj3n7bJzrGMAxWMqpUCHQKEG70Q61gIECgN&usg=AOvVaw0pD5vaMzv2fGKrWJNOGLoJ,,,,"missing_email, missing_year_founded"
+584,ZENDATA ApS,Zendata,ae69fbe1-93e4-11eb-be3a-7f925cb94351,76.67,Denmark,Denmark,Ølstykke,Hillerød,https://zendata.dk/,salg@zendata.dk,5.0,1188129.0,ok
+585,ZHONGXING TELECOM PAKISTAN (PRIVATE) LIMITED,Zhongxing Telecom Pakistan,9b862a88-3138-11ee-84b0-a7f9945660ac,69.57,Pakistan,Pakistan,,Islamabad,,,,,"missing_website, missing_email, missing_year_founded"
+586,ZIFF DAVIS IRELAND LIMITED,Ziff Davis Inc.,212440e2-b7a6-11ef-866b-2be30c022167,43.05,Ireland,United States,Dublin 2,New York,https://zdbvps.pages.dev/,,,,"missing_email, country_mismatch, missing_year_founded"
+587,Zte (Malaysia) Corporation Sdn. Bhd.,Malik Streams,00e2e633-004b-11ec-bb42-ffae64d56dd2,59.59,Malaysia,Malaysia,Kuala Lumpur,Kuala Lumpur,https://malikstreams.com.my/,support@malikstreams.com.my,10.0,2862479.0,ok
+588,Zte (Thailand) Co Ltd,ZTE Thailand,3a1f7b24-683a-11ee-92e5-016d0f508b74,68.64,Thailand,Thailand,Sathon District,Sathon,,,79.0,5095857.0,"missing_website, missing_email"
+589,Zte Corporation,ZTE Corporation Division,ced3b8a4-182c-11ef-b44a-43a7b3b6577a,81.15,China,China,Shenzhen,Shenzhen,,,,,"missing_website, missing_email, missing_year_founded"
+590,Z.T.E. CORPORATION BANGLADESH LTD.,ZTE Corporation Bangladesh Limited,3a852200-1b06-11ec-ae98-5d8c88c64981,87.94,Bangladesh,Bangladesh,Dhaka,Dhaka,,,,,"missing_website, missing_email, missing_year_founded"
+591,ZTE NORWAY AS,Bwell Norge,05b20a12-93e5-11eb-9937-4fab995bf8ff,65.0,Norway,Norway,Bærum,Bærum,http://www.bwell.no/,post@bwell.no,15.0,2188504.0,ok
